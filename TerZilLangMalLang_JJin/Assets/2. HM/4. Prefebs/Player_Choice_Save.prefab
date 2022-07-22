@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4560829267252804097
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4560829267252804096}
+  - component: {fileID: 4560829267252804103}
+  - component: {fileID: 5536363021484001574}
+  m_Layer: 0
+  m_Name: Player_Choice_Save
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4560829267252804096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4560829267252804097}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4560829267252804103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4560829267252804097}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf284c2b99c362248b53e7a61ae333e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  char_Prefeb:
+  - {fileID: 21300000, guid: 28503b45f5e44c942b9f0437a3977714, type: 3}
+  - {fileID: 21300000, guid: 71a5c2b8abca04d419d6a4c38dcd000b, type: 3}
+  - {fileID: 21300000, guid: 53f8e306f5102144388234e57031a4f4, type: 3}
+  - {fileID: 21300000, guid: 19f3b122436b3e0439485391ded7b1f7, type: 3}
+  - {fileID: 21300000, guid: 540bc6e002dd59a4e93085e67e910bf2, type: 3}
+  char_Prefeb_Choice: {fileID: 0}
+  save_char_Img: {fileID: 0}
+  save_char_Name: 
+  save_nft_Number: 0
+  save_StageClear: 0
+  TicketRandNum: 
+  isClear_1: 0
+  isClear_2: 0
+  isClear_3: 0
+  isClear_4: 0
+  isClear_5: 0
+  isTitleSkip: 0
+--- !u!114 &5536363021484001574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4560829267252804097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02361814aa4949549847a082e4ac3eea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  char_Prefeb:
+  - {fileID: 8853111763574873921, guid: afa233a4b712d3145b140ad0813a7b5e, type: 3}
+  - {fileID: 2957891238413510001, guid: 87d9f4324df5d8e4eab2bafd6b93f11a, type: 3}
+  - {fileID: 5034732408134809484, guid: 91d5d1d70e80e784e865d7a243d813d2, type: 3}
+  - {fileID: 4428539030401632119, guid: 301779c79347e1b4c89536ba3aefa0b2, type: 3}
+  - {fileID: 1598042287701448041, guid: 197c8b43c60698c4fb58dda3d38f590f, type: 3}
+  char_Prefeb_Choice: {fileID: 0}
+  save_char_Img: {fileID: 0}
+  save_char_Name: 
+  save_nft_Number: 0
+  save_StageClear: 0
+  isTitleSkip: 0
+  TicketRandNum: 
+  GameDataFileName: DragonsData.json
