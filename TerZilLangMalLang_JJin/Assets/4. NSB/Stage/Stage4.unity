@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 438119}
   - component: {fileID: 438121}
   - component: {fileID: 438120}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (57)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -153,7 +153,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 110
+  m_RootOrder: 98
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &438120
 BoxCollider2D:
@@ -243,7 +243,7 @@ GameObject:
   - component: {fileID: 14447296}
   - component: {fileID: 14447298}
   - component: {fileID: 14447297}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (84)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -262,7 +262,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 173
+  m_RootOrder: 161
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &14447297
 BoxCollider2D:
@@ -352,7 +352,7 @@ GameObject:
   - component: {fileID: 32713302}
   - component: {fileID: 32713304}
   - component: {fileID: 32713303}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (55)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -371,7 +371,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 89
+  m_RootOrder: 77
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &32713303
 BoxCollider2D:
@@ -461,7 +461,7 @@ GameObject:
   - component: {fileID: 43541103}
   - component: {fileID: 43541105}
   - component: {fileID: 43541104}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (57)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -480,7 +480,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 91
+  m_RootOrder: 79
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &43541104
 BoxCollider2D:
@@ -570,7 +570,7 @@ GameObject:
   - component: {fileID: 49135454}
   - component: {fileID: 49135456}
   - component: {fileID: 49135455}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (1)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -589,7 +589,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 117
+  m_RootOrder: 105
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &49135455
 BoxCollider2D:
@@ -679,7 +679,7 @@ GameObject:
   - component: {fileID: 62363530}
   - component: {fileID: 62363532}
   - component: {fileID: 62363531}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (65)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -698,7 +698,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 233
+  m_RootOrder: 221
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &62363531
 BoxCollider2D:
@@ -788,7 +788,7 @@ GameObject:
   - component: {fileID: 63425205}
   - component: {fileID: 63425207}
   - component: {fileID: 63425206}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (60)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -807,7 +807,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 232
+  m_RootOrder: 220
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &63425206
 BoxCollider2D:
@@ -897,7 +897,7 @@ GameObject:
   - component: {fileID: 68602217}
   - component: {fileID: 68602219}
   - component: {fileID: 68602218}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (25)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -916,7 +916,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 52
+  m_RootOrder: 40
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &68602218
 BoxCollider2D:
@@ -1006,7 +1006,7 @@ GameObject:
   - component: {fileID: 80838409}
   - component: {fileID: 80838411}
   - component: {fileID: 80838410}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (7)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1025,7 +1025,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 139
+  m_RootOrder: 127
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &80838410
 BoxCollider2D:
@@ -1115,7 +1115,7 @@ GameObject:
   - component: {fileID: 84348890}
   - component: {fileID: 84348892}
   - component: {fileID: 84348891}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ColBoxEfx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1217,7 +1217,7 @@ GameObject:
   - component: {fileID: 86167446}
   - component: {fileID: 86167448}
   - component: {fileID: 86167447}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (28)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1236,7 +1236,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 78
+  m_RootOrder: 66
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &86167447
 BoxCollider2D:
@@ -1326,7 +1326,7 @@ GameObject:
   - component: {fileID: 91972958}
   - component: {fileID: 91972960}
   - component: {fileID: 91972959}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (1)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1345,7 +1345,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 95
+  m_RootOrder: 83
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &91972959
 BoxCollider2D:
@@ -1465,7 +1465,7 @@ GameObject:
   - component: {fileID: 101287392}
   - component: {fileID: 101287394}
   - component: {fileID: 101287393}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (40)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1484,7 +1484,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 69
+  m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &101287393
 BoxCollider2D:
@@ -1574,7 +1574,7 @@ GameObject:
   - component: {fileID: 122683716}
   - component: {fileID: 122683718}
   - component: {fileID: 122683717}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (37)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1593,7 +1593,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 125
+  m_RootOrder: 113
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &122683717
 BoxCollider2D:
@@ -1683,7 +1683,7 @@ GameObject:
   - component: {fileID: 124940258}
   - component: {fileID: 124940260}
   - component: {fileID: 124940259}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (77)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1702,7 +1702,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 116
+  m_RootOrder: 104
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &124940259
 BoxCollider2D:
@@ -1792,7 +1792,7 @@ GameObject:
   - component: {fileID: 126934226}
   - component: {fileID: 126934228}
   - component: {fileID: 126934227}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (54)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1811,7 +1811,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 109
+  m_RootOrder: 97
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &126934227
 BoxCollider2D:
@@ -1901,7 +1901,7 @@ GameObject:
   - component: {fileID: 133275706}
   - component: {fileID: 133275708}
   - component: {fileID: 133275707}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (23)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1920,7 +1920,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 51
+  m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &133275707
 BoxCollider2D:
@@ -2010,7 +2010,7 @@ GameObject:
   - component: {fileID: 135881862}
   - component: {fileID: 135881864}
   - component: {fileID: 135881863}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (86)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2029,7 +2029,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 176
+  m_RootOrder: 164
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &135881863
 BoxCollider2D:
@@ -2119,7 +2119,7 @@ GameObject:
   - component: {fileID: 142853304}
   - component: {fileID: 142853306}
   - component: {fileID: 142853305}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (13)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2138,7 +2138,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 123
+  m_RootOrder: 111
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &142853305
 BoxCollider2D:
@@ -2228,7 +2228,7 @@ GameObject:
   - component: {fileID: 151590061}
   - component: {fileID: 151590063}
   - component: {fileID: 151590062}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (41)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2247,7 +2247,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 159
+  m_RootOrder: 147
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &151590062
 BoxCollider2D:
@@ -2337,7 +2337,7 @@ GameObject:
   - component: {fileID: 163348829}
   - component: {fileID: 163348831}
   - component: {fileID: 163348830}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (25)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2356,7 +2356,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 73
+  m_RootOrder: 61
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &163348830
 BoxCollider2D:
@@ -2446,7 +2446,7 @@ GameObject:
   - component: {fileID: 170264431}
   - component: {fileID: 170264433}
   - component: {fileID: 170264432}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (7)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2465,7 +2465,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 198
+  m_RootOrder: 186
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &170264432
 BoxCollider2D:
@@ -2555,7 +2555,7 @@ GameObject:
   - component: {fileID: 181089297}
   - component: {fileID: 181089299}
   - component: {fileID: 181089298}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (73)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2574,7 +2574,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 43
+  m_RootOrder: 31
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &181089298
 BoxCollider2D:
@@ -2664,7 +2664,7 @@ GameObject:
   - component: {fileID: 182735316}
   - component: {fileID: 182735318}
   - component: {fileID: 182735317}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (71)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2683,7 +2683,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 165
+  m_RootOrder: 153
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &182735317
 BoxCollider2D:
@@ -2772,7 +2772,7 @@ GameObject:
   m_Component:
   - component: {fileID: 187345265}
   - component: {fileID: 187345266}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (43)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2791,7 +2791,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.5, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 249
+  m_RootOrder: 237
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &187345266
 SpriteRenderer:
@@ -2855,7 +2855,7 @@ GameObject:
   - component: {fileID: 194305307}
   - component: {fileID: 194305309}
   - component: {fileID: 194305308}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (42)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2874,7 +2874,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 71
+  m_RootOrder: 59
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &194305308
 BoxCollider2D:
@@ -2964,7 +2964,7 @@ GameObject:
   - component: {fileID: 195712096}
   - component: {fileID: 195712098}
   - component: {fileID: 195712097}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (79)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2983,7 +2983,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 170
+  m_RootOrder: 158
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &195712097
 BoxCollider2D:
@@ -3073,7 +3073,7 @@ GameObject:
   - component: {fileID: 197296097}
   - component: {fileID: 197296099}
   - component: {fileID: 197296098}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (26)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3092,7 +3092,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 76
+  m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &197296098
 BoxCollider2D:
@@ -3171,50 +3171,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &208214283
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 208214284}
-  - component: {fileID: 208214285}
-  m_Layer: 0
-  m_Name: SpawnPoint (41)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &208214284
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 208214283}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -147.71, y: 109.840004, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 21
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &208214285
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 208214283}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &218346539
 GameObject:
   m_ObjectHideFlags: 0
@@ -3226,7 +3182,7 @@ GameObject:
   - component: {fileID: 218346540}
   - component: {fileID: 218346542}
   - component: {fileID: 218346541}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (40)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3245,7 +3201,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 158
+  m_RootOrder: 146
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &218346541
 BoxCollider2D:
@@ -3324,50 +3280,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &219028249
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 219028250}
-  - component: {fileID: 219028251}
-  m_Layer: 0
-  m_Name: SpawnPoint (45)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &219028250
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 219028249}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -145.1, y: 128.16, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 25
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &219028251
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 219028249}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &223504383
 GameObject:
   m_ObjectHideFlags: 0
@@ -3379,7 +3291,7 @@ GameObject:
   - component: {fileID: 223504384}
   - component: {fileID: 223504386}
   - component: {fileID: 223504385}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3398,7 +3310,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 138
+  m_RootOrder: 126
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &223504385
 BoxCollider2D:
@@ -3488,7 +3400,7 @@ GameObject:
   - component: {fileID: 224308259}
   - component: {fileID: 224308261}
   - component: {fileID: 224308260}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (37)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3507,7 +3419,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 66
+  m_RootOrder: 54
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &224308260
 BoxCollider2D:
@@ -3597,7 +3509,7 @@ GameObject:
   - component: {fileID: 229459073}
   - component: {fileID: 229459075}
   - component: {fileID: 229459074}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_4 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3616,7 +3528,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 244
+  m_RootOrder: 232
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &229459074
 BoxCollider2D:
@@ -3706,7 +3618,7 @@ GameObject:
   - component: {fileID: 254813518}
   - component: {fileID: 254813520}
   - component: {fileID: 254813519}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (15)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3725,7 +3637,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 44
+  m_RootOrder: 32
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &254813519
 BoxCollider2D:
@@ -3815,7 +3727,7 @@ GameObject:
   - component: {fileID: 258399673}
   - component: {fileID: 258399675}
   - component: {fileID: 258399674}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (27)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3834,7 +3746,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 146
+  m_RootOrder: 134
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &258399674
 BoxCollider2D:
@@ -3924,7 +3836,7 @@ GameObject:
   - component: {fileID: 261457210}
   - component: {fileID: 261457212}
   - component: {fileID: 261457211}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (13)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -3943,7 +3855,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 205
+  m_RootOrder: 193
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &261457211
 BoxCollider2D:
@@ -4033,7 +3945,7 @@ GameObject:
   - component: {fileID: 266042324}
   - component: {fileID: 266042326}
   - component: {fileID: 266042325}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (37)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4052,7 +3964,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13.8125, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 155
+  m_RootOrder: 143
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &266042325
 BoxCollider2D:
@@ -4142,7 +4054,7 @@ GameObject:
   - component: {fileID: 273936537}
   - component: {fileID: 273936539}
   - component: {fileID: 273936538}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (88)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4161,7 +4073,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 178
+  m_RootOrder: 166
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &273936538
 BoxCollider2D:
@@ -4340,7 +4252,7 @@ GameObject:
   - component: {fileID: 280076017}
   - component: {fileID: 280076019}
   - component: {fileID: 280076018}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (039)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4449,7 +4361,7 @@ GameObject:
   - component: {fileID: 289824820}
   - component: {fileID: 289824822}
   - component: {fileID: 289824821}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (15)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4468,7 +4380,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 42
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &289824821
 BoxCollider2D:
@@ -4558,7 +4470,7 @@ GameObject:
   - component: {fileID: 291713091}
   - component: {fileID: 291713093}
   - component: {fileID: 291713092}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (9)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4577,7 +4489,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 36
+  m_RootOrder: 24
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &291713092
 BoxCollider2D:
@@ -4666,7 +4578,7 @@ GameObject:
   m_Component:
   - component: {fileID: 292828459}
   - component: {fileID: 292828460}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 4 (4)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4685,7 +4597,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 0.8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 273
+  m_RootOrder: 261
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &292828460
 SpriteRenderer:
@@ -4749,7 +4661,7 @@ GameObject:
   - component: {fileID: 295293685}
   - component: {fileID: 295293687}
   - component: {fileID: 295293686}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (24)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4768,7 +4680,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 72
+  m_RootOrder: 60
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &295293686
 BoxCollider2D:
@@ -4857,7 +4769,7 @@ GameObject:
   m_Component:
   - component: {fileID: 296319359}
   - component: {fileID: 296319360}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 6 (7)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4876,7 +4788,7 @@ Transform:
   m_LocalScale: {x: 0.6999999, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 293
+  m_RootOrder: 281
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -20}
 --- !u!212 &296319360
 SpriteRenderer:
@@ -4940,7 +4852,7 @@ GameObject:
   - component: {fileID: 296493945}
   - component: {fileID: 296493947}
   - component: {fileID: 296493946}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (38)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4959,7 +4871,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 126
+  m_RootOrder: 114
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &296493946
 BoxCollider2D:
@@ -5049,7 +4961,7 @@ GameObject:
   - component: {fileID: 297237986}
   - component: {fileID: 297237988}
   - component: {fileID: 297237987}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (45)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5068,7 +4980,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 163
+  m_RootOrder: 151
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &297237987
 BoxCollider2D:
@@ -5157,7 +5069,7 @@ GameObject:
   m_Component:
   - component: {fileID: 305327586}
   - component: {fileID: 305327587}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5176,7 +5088,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 251
+  m_RootOrder: 239
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &305327587
 SpriteRenderer:
@@ -5240,7 +5152,7 @@ GameObject:
   - component: {fileID: 306387879}
   - component: {fileID: 306387881}
   - component: {fileID: 306387880}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (24)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5259,7 +5171,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 58
+  m_RootOrder: 46
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &306387880
 BoxCollider2D:
@@ -5349,7 +5261,7 @@ GameObject:
   - component: {fileID: 306944756}
   - component: {fileID: 306944758}
   - component: {fileID: 306944757}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (37)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5458,7 +5370,7 @@ GameObject:
   - component: {fileID: 308454674}
   - component: {fileID: 308454676}
   - component: {fileID: 308454675}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (66)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5477,7 +5389,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 115
+  m_RootOrder: 103
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &308454675
 BoxCollider2D:
@@ -5566,7 +5478,7 @@ GameObject:
   m_Component:
   - component: {fileID: 310211858}
   - component: {fileID: 310211859}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 2 (15)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5585,7 +5497,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 0.9, z: 0.77813}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 268
+  m_RootOrder: 256
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &310211859
 SpriteRenderer:
@@ -5649,7 +5561,7 @@ GameObject:
   - component: {fileID: 349644195}
   - component: {fileID: 349644197}
   - component: {fileID: 349644196}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (14)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5668,7 +5580,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 206
+  m_RootOrder: 194
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &349644196
 BoxCollider2D:
@@ -5757,7 +5669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 354633712}
   - component: {fileID: 354633713}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 3 (5)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5776,7 +5688,7 @@ Transform:
   m_LocalScale: {x: 0.6, y: 1.2, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 282
+  m_RootOrder: 270
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &354633713
 SpriteRenderer:
@@ -5839,7 +5751,7 @@ GameObject:
   m_Component:
   - component: {fileID: 356927007}
   - component: {fileID: 356927008}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (45)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5858,7 +5770,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 250
+  m_RootOrder: 238
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &356927008
 SpriteRenderer:
@@ -5921,7 +5833,7 @@ GameObject:
   m_Component:
   - component: {fileID: 365692201}
   - component: {fileID: 365692202}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 6 (5)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5940,7 +5852,7 @@ Transform:
   m_LocalScale: {x: 0.6, y: 1.2, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 258
+  m_RootOrder: 246
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &365692202
 SpriteRenderer:
@@ -6112,7 +6024,7 @@ GameObject:
   - component: {fileID: 385655590}
   - component: {fileID: 385655592}
   - component: {fileID: 385655591}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (9)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6131,7 +6043,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 201
+  m_RootOrder: 189
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &385655591
 BoxCollider2D:
@@ -6221,7 +6133,7 @@ GameObject:
   - component: {fileID: 393361765}
   - component: {fileID: 393361767}
   - component: {fileID: 393361766}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6240,7 +6152,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 101
+  m_RootOrder: 89
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &393361766
 BoxCollider2D:
@@ -6330,7 +6242,7 @@ GameObject:
   - component: {fileID: 398471749}
   - component: {fileID: 398471751}
   - component: {fileID: 398471750}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (62)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6349,7 +6261,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 185
+  m_RootOrder: 173
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &398471750
 BoxCollider2D:
@@ -6439,7 +6351,7 @@ GameObject:
   - component: {fileID: 404005926}
   - component: {fileID: 404005928}
   - component: {fileID: 404005927}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (20)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6458,7 +6370,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 59
+  m_RootOrder: 47
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &404005927
 BoxCollider2D:
@@ -6548,7 +6460,7 @@ GameObject:
   - component: {fileID: 410337367}
   - component: {fileID: 410337369}
   - component: {fileID: 410337368}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (46)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6567,7 +6479,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 102
+  m_RootOrder: 90
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &410337368
 BoxCollider2D:
@@ -6657,7 +6569,7 @@ GameObject:
   - component: {fileID: 414147148}
   - component: {fileID: 414147150}
   - component: {fileID: 414147149}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_4 (3)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6676,7 +6588,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 211
+  m_RootOrder: 199
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &414147149
 BoxCollider2D:
@@ -6766,7 +6678,7 @@ GameObject:
   - component: {fileID: 414488701}
   - component: {fileID: 414488703}
   - component: {fileID: 414488702}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (11)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6785,7 +6697,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 203
+  m_RootOrder: 191
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &414488702
 BoxCollider2D:
@@ -6875,7 +6787,7 @@ GameObject:
   - component: {fileID: 418799370}
   - component: {fileID: 418799372}
   - component: {fileID: 418799371}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (87)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6894,7 +6806,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 177
+  m_RootOrder: 165
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &418799371
 BoxCollider2D:
@@ -6984,7 +6896,7 @@ GameObject:
   - component: {fileID: 428271539}
   - component: {fileID: 428271541}
   - component: {fileID: 428271540}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_4 (1)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7003,7 +6915,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 200
+  m_RootOrder: 188
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &428271540
 BoxCollider2D:
@@ -7093,7 +7005,7 @@ GameObject:
   - component: {fileID: 428922012}
   - component: {fileID: 428922014}
   - component: {fileID: 428922013}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (29)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7112,7 +7024,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 148
+  m_RootOrder: 136
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &428922013
 BoxCollider2D:
@@ -7202,7 +7114,7 @@ GameObject:
   - component: {fileID: 433218017}
   - component: {fileID: 433218019}
   - component: {fileID: 433218018}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (28)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7221,7 +7133,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 62
+  m_RootOrder: 50
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &433218018
 BoxCollider2D:
@@ -7311,7 +7223,7 @@ GameObject:
   - component: {fileID: 468996726}
   - component: {fileID: 468996728}
   - component: {fileID: 468996727}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (43)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7330,7 +7242,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 161
+  m_RootOrder: 149
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &468996727
 BoxCollider2D:
@@ -7420,7 +7332,7 @@ GameObject:
   - component: {fileID: 472225219}
   - component: {fileID: 472225221}
   - component: {fileID: 472225220}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (22)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7439,7 +7351,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 240
+  m_RootOrder: 228
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &472225220
 BoxCollider2D:
@@ -7529,7 +7441,7 @@ GameObject:
   - component: {fileID: 484753637}
   - component: {fileID: 484753639}
   - component: {fileID: 484753638}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (043)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7638,7 +7550,7 @@ GameObject:
   - component: {fileID: 487954247}
   - component: {fileID: 487954249}
   - component: {fileID: 487954248}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ColBoxEfx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7740,7 +7652,7 @@ GameObject:
   - component: {fileID: 491769906}
   - component: {fileID: 491769908}
   - component: {fileID: 491769907}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (47)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7759,7 +7671,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 131
+  m_RootOrder: 119
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &491769907
 BoxCollider2D:
@@ -7849,7 +7761,7 @@ GameObject:
   - component: {fileID: 494824399}
   - component: {fileID: 494824401}
   - component: {fileID: 494824400}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (45)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7868,7 +7780,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 195
+  m_RootOrder: 183
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &494824400
 BoxCollider2D:
@@ -7958,7 +7870,7 @@ GameObject:
   - component: {fileID: 496762076}
   - component: {fileID: 496762078}
   - component: {fileID: 496762077}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (56)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7977,7 +7889,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 90
+  m_RootOrder: 78
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &496762077
 BoxCollider2D:
@@ -8056,50 +7968,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &504148855
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 504148856}
-  - component: {fileID: 504148857}
-  m_Layer: 0
-  m_Name: SpawnPoint (37)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &504148856
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 504148855}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -136.74, y: 104.22, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 17
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &504148857
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 504148855}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &504871338
 GameObject:
   m_ObjectHideFlags: 0
@@ -8110,7 +7978,7 @@ GameObject:
   m_Component:
   - component: {fileID: 504871339}
   - component: {fileID: 504871340}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 5 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8129,7 +7997,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 259
+  m_RootOrder: 247
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &504871340
 SpriteRenderer:
@@ -8193,7 +8061,7 @@ GameObject:
   - component: {fileID: 508638261}
   - component: {fileID: 508638263}
   - component: {fileID: 508638262}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (53)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8212,7 +8080,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 132
+  m_RootOrder: 120
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &508638262
 BoxCollider2D:
@@ -8302,7 +8170,7 @@ GameObject:
   - component: {fileID: 510138352}
   - component: {fileID: 510138354}
   - component: {fileID: 510138353}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (7)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8321,7 +8189,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 34
+  m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &510138353
 BoxCollider2D:
@@ -8411,7 +8279,7 @@ GameObject:
   - component: {fileID: 518367347}
   - component: {fileID: 518367349}
   - component: {fileID: 518367348}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (34)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8430,7 +8298,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 285
+  m_RootOrder: 273
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &518367348
 BoxCollider2D:
@@ -8520,7 +8388,7 @@ GameObject:
   - component: {fileID: 526911812}
   - component: {fileID: 526911814}
   - component: {fileID: 526911813}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (23)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8539,7 +8407,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 245
+  m_RootOrder: 233
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &526911813
 BoxCollider2D:
@@ -8629,7 +8497,7 @@ GameObject:
   - component: {fileID: 526984432}
   - component: {fileID: 526984434}
   - component: {fileID: 526984433}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (36)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8648,7 +8516,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 154
+  m_RootOrder: 142
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &526984433
 BoxCollider2D:
@@ -8737,7 +8605,7 @@ GameObject:
   m_Component:
   - component: {fileID: 529104762}
   - component: {fileID: 529104763}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 3 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8756,7 +8624,7 @@ Transform:
   m_LocalScale: {x: 0.5, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 264
+  m_RootOrder: 252
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &529104763
 SpriteRenderer:
@@ -8820,7 +8688,7 @@ GameObject:
   - component: {fileID: 532956427}
   - component: {fileID: 532956429}
   - component: {fileID: 532956428}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (12)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8839,7 +8707,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 39
+  m_RootOrder: 27
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &532956428
 BoxCollider2D:
@@ -8929,7 +8797,7 @@ GameObject:
   - component: {fileID: 536208245}
   - component: {fileID: 536208247}
   - component: {fileID: 536208246}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (44)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8948,7 +8816,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 130
+  m_RootOrder: 118
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &536208246
 BoxCollider2D:
@@ -9038,7 +8906,7 @@ GameObject:
   - component: {fileID: 541597126}
   - component: {fileID: 541597128}
   - component: {fileID: 541597127}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (22)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9057,7 +8925,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 74
+  m_RootOrder: 62
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &541597127
 BoxCollider2D:
@@ -9147,7 +9015,7 @@ GameObject:
   - component: {fileID: 547841765}
   - component: {fileID: 547841767}
   - component: {fileID: 547841766}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (8)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9166,7 +9034,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 140
+  m_RootOrder: 128
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &547841766
 BoxCollider2D:
@@ -9256,7 +9124,7 @@ GameObject:
   - component: {fileID: 550583035}
   - component: {fileID: 550583037}
   - component: {fileID: 550583036}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (49)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9276,7 +9144,7 @@ Transform:
   m_Children:
   - {fileID: 487954247}
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 290
+  m_RootOrder: 278
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &550583036
 BoxCollider2D:
@@ -9365,7 +9233,7 @@ GameObject:
   m_Component:
   - component: {fileID: 560255732}
   - component: {fileID: 560255733}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 2 (11)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9384,7 +9252,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 254
+  m_RootOrder: 242
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &560255733
 SpriteRenderer:
@@ -9447,7 +9315,7 @@ GameObject:
   m_Component:
   - component: {fileID: 560393508}
   - component: {fileID: 560393509}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (60)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9466,7 +9334,7 @@ Transform:
   m_LocalScale: {x: 635.83105, y: 74.53974, z: 20.302958}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 284
+  m_RootOrder: 272
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &560393509
 SpriteRenderer:
@@ -9530,7 +9398,7 @@ GameObject:
   - component: {fileID: 561154658}
   - component: {fileID: 561154660}
   - component: {fileID: 561154659}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (40)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9549,7 +9417,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 127
+  m_RootOrder: 115
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &561154659
 BoxCollider2D:
@@ -9639,7 +9507,7 @@ GameObject:
   - component: {fileID: 568771708}
   - component: {fileID: 568771710}
   - component: {fileID: 568771709}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (53)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9658,7 +9526,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 87
+  m_RootOrder: 75
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &568771709
 BoxCollider2D:
@@ -9748,7 +9616,7 @@ GameObject:
   - component: {fileID: 573375828}
   - component: {fileID: 573375830}
   - component: {fileID: 573375829}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (56)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9767,7 +9635,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 133
+  m_RootOrder: 121
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &573375829
 BoxCollider2D:
@@ -9857,7 +9725,7 @@ GameObject:
   - component: {fileID: 603663688}
   - component: {fileID: 603663690}
   - component: {fileID: 603663689}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (42)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9876,7 +9744,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 160
+  m_RootOrder: 148
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &603663689
 BoxCollider2D:
@@ -9966,7 +9834,7 @@ GameObject:
   - component: {fileID: 607547564}
   - component: {fileID: 607547566}
   - component: {fileID: 607547565}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (71)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9985,7 +9853,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 242
+  m_RootOrder: 230
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &607547565
 BoxCollider2D:
@@ -10075,7 +9943,7 @@ GameObject:
   - component: {fileID: 624351776}
   - component: {fileID: 624351778}
   - component: {fileID: 624351777}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (55)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10094,7 +9962,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 183
+  m_RootOrder: 171
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &624351777
 BoxCollider2D:
@@ -10184,7 +10052,7 @@ GameObject:
   - component: {fileID: 631283171}
   - component: {fileID: 631283173}
   - component: {fileID: 631283172}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (76)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10203,7 +10071,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 175
+  m_RootOrder: 163
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &631283172
 BoxCollider2D:
@@ -10293,7 +10161,7 @@ GameObject:
   - component: {fileID: 634256263}
   - component: {fileID: 634256265}
   - component: {fileID: 634256264}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (8)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10312,7 +10180,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 199
+  m_RootOrder: 187
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &634256264
 BoxCollider2D:
@@ -10402,7 +10270,7 @@ GameObject:
   - component: {fileID: 641262120}
   - component: {fileID: 641262122}
   - component: {fileID: 641262121}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (69)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10421,7 +10289,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 190
+  m_RootOrder: 178
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &641262121
 BoxCollider2D:
@@ -10510,7 +10378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 649513730}
   - component: {fileID: 649513731}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 5 (5)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10529,7 +10397,7 @@ Transform:
   m_LocalScale: {x: 0.6, y: 1.2, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 281
+  m_RootOrder: 269
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &649513731
 SpriteRenderer:
@@ -10593,7 +10461,7 @@ GameObject:
   - component: {fileID: 654627315}
   - component: {fileID: 654627317}
   - component: {fileID: 654627316}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (18)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10612,7 +10480,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 279
+  m_RootOrder: 267
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &654627316
 BoxCollider2D:
@@ -10702,7 +10570,7 @@ GameObject:
   - component: {fileID: 659770514}
   - component: {fileID: 659770516}
   - component: {fileID: 659770515}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (73)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10721,7 +10589,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 192
+  m_RootOrder: 180
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &659770515
 BoxCollider2D:
@@ -10811,7 +10679,7 @@ GameObject:
   - component: {fileID: 660144761}
   - component: {fileID: 660144763}
   - component: {fileID: 660144762}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (41)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10830,7 +10698,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 194
+  m_RootOrder: 182
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &660144762
 BoxCollider2D:
@@ -11024,7 +10892,7 @@ GameObject:
   m_Component:
   - component: {fileID: 681047747}
   - component: {fileID: 681047748}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 5 (7)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11043,7 +10911,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 278
+  m_RootOrder: 266
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -20}
 --- !u!212 &681047748
 SpriteRenderer:
@@ -11107,7 +10975,7 @@ GameObject:
   - component: {fileID: 705938925}
   - component: {fileID: 705938927}
   - component: {fileID: 705938926}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (58)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11126,7 +10994,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 111
+  m_RootOrder: 99
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &705938926
 BoxCollider2D:
@@ -11216,7 +11084,7 @@ GameObject:
   - component: {fileID: 719886506}
   - component: {fileID: 719886508}
   - component: {fileID: 719886507}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (040)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11325,7 +11193,7 @@ GameObject:
   - component: {fileID: 720928511}
   - component: {fileID: 720928513}
   - component: {fileID: 720928512}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (85)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11344,7 +11212,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 174
+  m_RootOrder: 162
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &720928512
 BoxCollider2D:
@@ -11434,7 +11302,7 @@ GameObject:
   - component: {fileID: 727054920}
   - component: {fileID: 727054922}
   - component: {fileID: 727054921}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (22)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11453,7 +11321,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 50
+  m_RootOrder: 38
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &727054921
 BoxCollider2D:
@@ -11542,7 +11410,7 @@ GameObject:
   m_Component:
   - component: {fileID: 727623633}
   - component: {fileID: 727623634}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 5 (13)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11561,7 +11429,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 261
+  m_RootOrder: 249
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &727623634
 SpriteRenderer:
@@ -11625,7 +11493,7 @@ GameObject:
   - component: {fileID: 741526386}
   - component: {fileID: 741526388}
   - component: {fileID: 741526387}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (8)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11644,7 +11512,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 35
+  m_RootOrder: 23
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &741526387
 BoxCollider2D:
@@ -11734,7 +11602,7 @@ GameObject:
   - component: {fileID: 746508208}
   - component: {fileID: 746508210}
   - component: {fileID: 746508209}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (67)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11753,7 +11621,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 235
+  m_RootOrder: 223
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &746508209
 BoxCollider2D:
@@ -11843,7 +11711,7 @@ GameObject:
   - component: {fileID: 753941657}
   - component: {fileID: 753941659}
   - component: {fileID: 753941658}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (89)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11862,7 +11730,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 179
+  m_RootOrder: 167
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &753941658
 BoxCollider2D:
@@ -11952,7 +11820,7 @@ GameObject:
   - component: {fileID: 761182076}
   - component: {fileID: 761182078}
   - component: {fileID: 761182077}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (59)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11971,7 +11839,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 112
+  m_RootOrder: 100
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &761182077
 BoxCollider2D:
@@ -12168,7 +12036,7 @@ GameObject:
   - component: {fileID: 780581867}
   - component: {fileID: 780581869}
   - component: {fileID: 780581868}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (17)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12187,7 +12055,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 209
+  m_RootOrder: 197
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &780581868
 BoxCollider2D:
@@ -12266,50 +12134,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &783931782
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 783931783}
-  - component: {fileID: 783931784}
-  m_Layer: 0
-  m_Name: SpawnPoint (40)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &783931783
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 783931782}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -152.52, y: 109.880005, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 20
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &783931784
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 783931782}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &789638050
 GameObject:
   m_ObjectHideFlags: 0
@@ -12321,7 +12145,7 @@ GameObject:
   - component: {fileID: 789638051}
   - component: {fileID: 789638053}
   - component: {fileID: 789638052}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (052)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12430,7 +12254,7 @@ GameObject:
   - component: {fileID: 796388278}
   - component: {fileID: 796388280}
   - component: {fileID: 796388279}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (47)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12449,7 +12273,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 103
+  m_RootOrder: 91
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &796388279
 BoxCollider2D:
@@ -12539,7 +12363,7 @@ GameObject:
   - component: {fileID: 810392777}
   - component: {fileID: 810392779}
   - component: {fileID: 810392778}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (9)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12558,7 +12382,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 141
+  m_RootOrder: 129
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &810392778
 BoxCollider2D:
@@ -12648,7 +12472,7 @@ GameObject:
   - component: {fileID: 812290705}
   - component: {fileID: 812290707}
   - component: {fileID: 812290706}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (15)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12667,7 +12491,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 207
+  m_RootOrder: 195
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &812290706
 BoxCollider2D:
@@ -12756,7 +12580,7 @@ GameObject:
   m_Component:
   - component: {fileID: 816784642}
   - component: {fileID: 816784643}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 1 (1)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12775,7 +12599,7 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 280
+  m_RootOrder: 268
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &816784643
 SpriteRenderer:
@@ -12839,7 +12663,7 @@ GameObject:
   - component: {fileID: 831045206}
   - component: {fileID: 831045208}
   - component: {fileID: 831045207}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (58)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12858,7 +12682,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 226
+  m_RootOrder: 214
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &831045207
 BoxCollider2D:
@@ -12948,7 +12772,7 @@ GameObject:
   - component: {fileID: 842235334}
   - component: {fileID: 842235336}
   - component: {fileID: 842235335}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (27)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12967,7 +12791,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 77
+  m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &842235335
 BoxCollider2D:
@@ -13057,7 +12881,7 @@ GameObject:
   - component: {fileID: 846853844}
   - component: {fileID: 846853846}
   - component: {fileID: 846853845}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (10)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13076,7 +12900,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 212
+  m_RootOrder: 200
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &846853845
 BoxCollider2D:
@@ -13166,7 +12990,7 @@ GameObject:
   - component: {fileID: 855978584}
   - component: {fileID: 855978586}
   - component: {fileID: 855978585}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (23)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13185,7 +13009,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 75
+  m_RootOrder: 63
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &855978585
 BoxCollider2D:
@@ -13275,7 +13099,7 @@ GameObject:
   - component: {fileID: 859236106}
   - component: {fileID: 859236108}
   - component: {fileID: 859236107}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (44)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13294,7 +13118,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 162
+  m_RootOrder: 150
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &859236107
 BoxCollider2D:
@@ -13384,7 +13208,7 @@ GameObject:
   - component: {fileID: 864259737}
   - component: {fileID: 864259739}
   - component: {fileID: 864259738}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (19)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13403,7 +13227,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 266
+  m_RootOrder: 254
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &864259738
 BoxCollider2D:
@@ -13493,7 +13317,7 @@ GameObject:
   - component: {fileID: 867100396}
   - component: {fileID: 867100398}
   - component: {fileID: 867100397}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (2)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13512,7 +13336,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 118
+  m_RootOrder: 106
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &867100397
 BoxCollider2D:
@@ -13602,7 +13426,7 @@ GameObject:
   - component: {fileID: 885857007}
   - component: {fileID: 885857009}
   - component: {fileID: 885857008}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (31)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13621,7 +13445,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 149
+  m_RootOrder: 137
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &885857008
 BoxCollider2D:
@@ -13711,7 +13535,7 @@ GameObject:
   - component: {fileID: 885858870}
   - component: {fileID: 885858872}
   - component: {fileID: 885858871}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (047)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13820,7 +13644,7 @@ GameObject:
   - component: {fileID: 886908933}
   - component: {fileID: 886908935}
   - component: {fileID: 886908934}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (39)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13839,7 +13663,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 157
+  m_RootOrder: 145
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &886908934
 BoxCollider2D:
@@ -13929,7 +13753,7 @@ GameObject:
   - component: {fileID: 895698174}
   - component: {fileID: 895698176}
   - component: {fileID: 895698175}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_4 (2)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13948,7 +13772,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 202
+  m_RootOrder: 190
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &895698175
 BoxCollider2D:
@@ -14038,7 +13862,7 @@ GameObject:
   - component: {fileID: 908864745}
   - component: {fileID: 908864747}
   - component: {fileID: 908864746}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (48)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14057,7 +13881,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 217
+  m_RootOrder: 205
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &908864746
 BoxCollider2D:
@@ -14146,7 +13970,7 @@ GameObject:
   m_Component:
   - component: {fileID: 946458131}
   - component: {fileID: 946458132}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 3 (7)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14165,7 +13989,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 277
+  m_RootOrder: 265
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -20}
 --- !u!212 &946458132
 SpriteRenderer:
@@ -14229,7 +14053,7 @@ GameObject:
   - component: {fileID: 951922280}
   - component: {fileID: 951922282}
   - component: {fileID: 951922281}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (63)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14248,7 +14072,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 186
+  m_RootOrder: 174
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &951922281
 BoxCollider2D:
@@ -14338,7 +14162,7 @@ GameObject:
   - component: {fileID: 959612997}
   - component: {fileID: 959612999}
   - component: {fileID: 959612998}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (34)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14357,7 +14181,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 152
+  m_RootOrder: 140
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &959612998
 BoxCollider2D:
@@ -14447,7 +14271,7 @@ GameObject:
   - component: {fileID: 961006294}
   - component: {fileID: 961006296}
   - component: {fileID: 961006295}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (60)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14466,7 +14290,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 113
+  m_RootOrder: 101
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &961006295
 BoxCollider2D:
@@ -14556,7 +14380,7 @@ GameObject:
   - component: {fileID: 967760206}
   - component: {fileID: 967760208}
   - component: {fileID: 967760207}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (10)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14575,7 +14399,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 37
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &967760207
 BoxCollider2D:
@@ -14664,7 +14488,7 @@ GameObject:
   m_Component:
   - component: {fileID: 992839896}
   - component: {fileID: 992839897}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 1 (3)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14683,7 +14507,7 @@ Transform:
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 267
+  m_RootOrder: 255
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &992839897
 SpriteRenderer:
@@ -14736,50 +14560,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &995971240
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 995971241}
-  - component: {fileID: 995971242}
-  m_Layer: 0
-  m_Name: SpawnPoint (39)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &995971241
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 995971240}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -157.37, y: 109.8, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 19
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &995971242
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 995971240}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &996858137
 GameObject:
   m_ObjectHideFlags: 0
@@ -14791,7 +14571,7 @@ GameObject:
   - component: {fileID: 996858138}
   - component: {fileID: 996858140}
   - component: {fileID: 996858139}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (75)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14810,7 +14590,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 168
+  m_RootOrder: 156
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &996858139
 BoxCollider2D:
@@ -14900,7 +14680,7 @@ GameObject:
   - component: {fileID: 1006335566}
   - component: {fileID: 1006335568}
   - component: {fileID: 1006335567}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (32)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14919,7 +14699,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 150
+  m_RootOrder: 138
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1006335567
 BoxCollider2D:
@@ -15009,7 +14789,7 @@ GameObject:
   - component: {fileID: 1024946423}
   - component: {fileID: 1024946425}
   - component: {fileID: 1024946424}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (15)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15028,7 +14808,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 124
+  m_RootOrder: 112
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1024946424
 BoxCollider2D:
@@ -15117,7 +14897,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1030791021}
   - component: {fileID: 1030791022}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (40)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15136,7 +14916,7 @@ Transform:
   m_LocalScale: {x: 151.64294, y: 179.40715, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 30
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1030791022
 SpriteRenderer:
@@ -15200,7 +14980,7 @@ GameObject:
   - component: {fileID: 1034021178}
   - component: {fileID: 1034021180}
   - component: {fileID: 1034021179}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (11)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15219,7 +14999,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 38
+  m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1034021179
 BoxCollider2D:
@@ -15309,7 +15089,7 @@ GameObject:
   - component: {fileID: 1054921725}
   - component: {fileID: 1054921727}
   - component: {fileID: 1054921726}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (29)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15328,7 +15108,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 79
+  m_RootOrder: 67
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1054921726
 BoxCollider2D:
@@ -15418,7 +15198,7 @@ GameObject:
   - component: {fileID: 1057035489}
   - component: {fileID: 1057035491}
   - component: {fileID: 1057035490}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (44)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15437,7 +15217,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 81
+  m_RootOrder: 69
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1057035490
 BoxCollider2D:
@@ -15527,7 +15307,7 @@ GameObject:
   - component: {fileID: 1057357638}
   - component: {fileID: 1057357640}
   - component: {fileID: 1057357639}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (90)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15546,7 +15326,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 180
+  m_RootOrder: 168
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1057357639
 BoxCollider2D:
@@ -15636,7 +15416,7 @@ GameObject:
   - component: {fileID: 1059720297}
   - component: {fileID: 1059720299}
   - component: {fileID: 1059720298}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (051)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15745,7 +15525,7 @@ GameObject:
   - component: {fileID: 1062822763}
   - component: {fileID: 1062822765}
   - component: {fileID: 1062822764}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (18)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15764,7 +15544,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 214
+  m_RootOrder: 202
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1062822764
 BoxCollider2D:
@@ -15854,7 +15634,7 @@ GameObject:
   - component: {fileID: 1063854204}
   - component: {fileID: 1063854206}
   - component: {fileID: 1063854205}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (74)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15873,7 +15653,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 167
+  m_RootOrder: 155
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1063854205
 BoxCollider2D:
@@ -15963,7 +15743,7 @@ GameObject:
   - component: {fileID: 1064613609}
   - component: {fileID: 1064613611}
   - component: {fileID: 1064613610}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (57)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15982,7 +15762,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 222
+  m_RootOrder: 210
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1064613610
 BoxCollider2D:
@@ -16072,7 +15852,7 @@ GameObject:
   - component: {fileID: 1066255877}
   - component: {fileID: 1066255879}
   - component: {fileID: 1066255878}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (47)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16092,7 +15872,7 @@ Transform:
   m_Children:
   - {fileID: 84348890}
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 292
+  m_RootOrder: 280
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1066255878
 BoxCollider2D:
@@ -16182,7 +15962,7 @@ GameObject:
   - component: {fileID: 1074816099}
   - component: {fileID: 1074816101}
   - component: {fileID: 1074816100}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_4
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16201,7 +15981,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 98
+  m_RootOrder: 86
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1074816100
 BoxCollider2D:
@@ -16291,7 +16071,7 @@ GameObject:
   - component: {fileID: 1093618376}
   - component: {fileID: 1093618378}
   - component: {fileID: 1093618377}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (45)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16310,7 +16090,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 82
+  m_RootOrder: 70
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1093618377
 BoxCollider2D:
@@ -16400,7 +16180,7 @@ GameObject:
   - component: {fileID: 1097174648}
   - component: {fileID: 1097174650}
   - component: {fileID: 1097174649}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (044)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16509,7 +16289,7 @@ GameObject:
   - component: {fileID: 1098958687}
   - component: {fileID: 1098958689}
   - component: {fileID: 1098958688}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (27)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16528,7 +16308,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 61
+  m_RootOrder: 49
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1098958688
 BoxCollider2D:
@@ -16618,7 +16398,7 @@ GameObject:
   - component: {fileID: 1104628001}
   - component: {fileID: 1104628003}
   - component: {fileID: 1104628002}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (24)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16637,7 +16417,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 246
+  m_RootOrder: 234
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1104628002
 BoxCollider2D:
@@ -16757,7 +16537,7 @@ GameObject:
   - component: {fileID: 1113523268}
   - component: {fileID: 1113523270}
   - component: {fileID: 1113523269}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (42)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16776,7 +16556,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 128
+  m_RootOrder: 116
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1113523269
 BoxCollider2D:
@@ -16866,7 +16646,7 @@ GameObject:
   - component: {fileID: 1118413327}
   - component: {fileID: 1118413329}
   - component: {fileID: 1118413328}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (35)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16885,7 +16665,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 153
+  m_RootOrder: 141
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1118413328
 BoxCollider2D:
@@ -16975,7 +16755,7 @@ GameObject:
   - component: {fileID: 1122552941}
   - component: {fileID: 1122552943}
   - component: {fileID: 1122552942}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (14)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16994,7 +16774,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 41
+  m_RootOrder: 29
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1122552942
 BoxCollider2D:
@@ -17084,7 +16864,7 @@ GameObject:
   - component: {fileID: 1131401915}
   - component: {fileID: 1131401917}
   - component: {fileID: 1131401916}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (045)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17193,7 +16973,7 @@ GameObject:
   - component: {fileID: 1134695278}
   - component: {fileID: 1134695280}
   - component: {fileID: 1134695279}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (83)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17212,7 +16992,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 172
+  m_RootOrder: 160
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1134695279
 BoxCollider2D:
@@ -17302,7 +17082,7 @@ GameObject:
   - component: {fileID: 1137380282}
   - component: {fileID: 1137380284}
   - component: {fileID: 1137380283}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (18)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17321,7 +17101,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 46
+  m_RootOrder: 34
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1137380283
 BoxCollider2D:
@@ -17411,7 +17191,7 @@ GameObject:
   - component: {fileID: 1145473010}
   - component: {fileID: 1145473012}
   - component: {fileID: 1145473011}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (050)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17520,7 +17300,7 @@ GameObject:
   - component: {fileID: 1153716819}
   - component: {fileID: 1153716821}
   - component: {fileID: 1153716820}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (046)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17629,7 +17409,7 @@ GameObject:
   - component: {fileID: 1158206134}
   - component: {fileID: 1158206136}
   - component: {fileID: 1158206135}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_17 (81)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17648,7 +17428,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 135
+  m_RootOrder: 123
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1158206135
 BoxCollider2D:
@@ -17738,7 +17518,7 @@ GameObject:
   - component: {fileID: 1169113720}
   - component: {fileID: 1169113722}
   - component: {fileID: 1169113721}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (32)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17757,7 +17537,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 287
+  m_RootOrder: 275
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1169113721
 BoxCollider2D:
@@ -17847,7 +17627,7 @@ GameObject:
   - component: {fileID: 1172517290}
   - component: {fileID: 1172517292}
   - component: {fileID: 1172517291}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (63)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17866,7 +17646,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 230
+  m_RootOrder: 218
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1172517291
 BoxCollider2D:
@@ -17956,7 +17736,7 @@ GameObject:
   - component: {fileID: 1177537566}
   - component: {fileID: 1177537568}
   - component: {fileID: 1177537567}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (3)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17975,7 +17755,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 97
+  m_RootOrder: 85
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1177537567
 BoxCollider2D:
@@ -18065,7 +17845,7 @@ GameObject:
   - component: {fileID: 1183523557}
   - component: {fileID: 1183523559}
   - component: {fileID: 1183523558}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18084,7 +17864,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 94
+  m_RootOrder: 82
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1183523558
 BoxCollider2D:
@@ -18173,7 +17953,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1183706784}
   - component: {fileID: 1183706785}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 3 (15)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18192,7 +17972,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 0.9, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 271
+  m_RootOrder: 259
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1183706785
 SpriteRenderer:
@@ -18256,7 +18036,7 @@ GameObject:
   - component: {fileID: 1188897278}
   - component: {fileID: 1188897280}
   - component: {fileID: 1188897279}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (68)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18275,7 +18055,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 189
+  m_RootOrder: 177
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1188897279
 BoxCollider2D:
@@ -18365,7 +18145,7 @@ GameObject:
   - component: {fileID: 1192468491}
   - component: {fileID: 1192468493}
   - component: {fileID: 1192468492}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (041)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18474,7 +18254,7 @@ GameObject:
   - component: {fileID: 1194157141}
   - component: {fileID: 1194157143}
   - component: {fileID: 1194157142}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (48)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18493,7 +18273,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 291
+  m_RootOrder: 279
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1194157142
 BoxCollider2D:
@@ -18583,7 +18363,7 @@ GameObject:
   - component: {fileID: 1202976556}
   - component: {fileID: 1202976558}
   - component: {fileID: 1202976557}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (36)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18602,7 +18382,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 65
+  m_RootOrder: 53
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1202976557
 BoxCollider2D:
@@ -18692,7 +18472,7 @@ GameObject:
   - component: {fileID: 1204311750}
   - component: {fileID: 1204311752}
   - component: {fileID: 1204311751}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (19)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18711,7 +18491,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 47
+  m_RootOrder: 35
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1204311751
 BoxCollider2D:
@@ -18801,7 +18581,7 @@ GameObject:
   - component: {fileID: 1207438040}
   - component: {fileID: 1207438042}
   - component: {fileID: 1207438041}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (61)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -18820,7 +18600,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 228
+  m_RootOrder: 216
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1207438041
 BoxCollider2D:
@@ -18910,7 +18690,7 @@ GameObject:
   - component: {fileID: 1208115210}
   - component: {fileID: 1208115212}
   - component: {fileID: 1208115211}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (38)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19018,7 +18798,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1219831664}
   - component: {fileID: 1219831665}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 4 (5)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19037,7 +18817,7 @@ Transform:
   m_LocalScale: {x: 0.6, y: 1.2, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 263
+  m_RootOrder: 251
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1219831665
 SpriteRenderer:
@@ -19101,7 +18881,7 @@ GameObject:
   - component: {fileID: 1232193756}
   - component: {fileID: 1232193758}
   - component: {fileID: 1232193757}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_4 (5)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19120,7 +18900,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 238
+  m_RootOrder: 226
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1232193757
 BoxCollider2D:
@@ -19210,7 +18990,7 @@ GameObject:
   - component: {fileID: 1235055535}
   - component: {fileID: 1235055537}
   - component: {fileID: 1235055536}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (70)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19229,7 +19009,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13.8125, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 191
+  m_RootOrder: 179
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1235055536
 BoxCollider2D:
@@ -19319,7 +19099,7 @@ GameObject:
   - component: {fileID: 1244585416}
   - component: {fileID: 1244585418}
   - component: {fileID: 1244585417}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (14)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19338,7 +19118,7 @@ Transform:
   m_LocalScale: {x: 45, y: 45, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 136
+  m_RootOrder: 124
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1244585417
 BoxCollider2D:
@@ -19427,7 +19207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1253308426}
   - component: {fileID: 1253308427}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 6 (15)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19446,7 +19226,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 269
+  m_RootOrder: 257
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1253308427
 SpriteRenderer:
@@ -19510,7 +19290,7 @@ GameObject:
   - component: {fileID: 1266340805}
   - component: {fileID: 1266340807}
   - component: {fileID: 1266340806}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_4 (4)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19529,7 +19309,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 223
+  m_RootOrder: 211
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1266340806
 BoxCollider2D:
@@ -19618,7 +19398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1274171495}
   - component: {fileID: 1274171496}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 5 (4)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19637,7 +19417,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 257
+  m_RootOrder: 245
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1274171496
 SpriteRenderer:
@@ -19701,7 +19481,7 @@ GameObject:
   - component: {fileID: 1284214324}
   - component: {fileID: 1284214326}
   - component: {fileID: 1284214325}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (25)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19720,7 +19500,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 144
+  m_RootOrder: 132
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1284214325
 BoxCollider2D:
@@ -19810,7 +19590,7 @@ GameObject:
   - component: {fileID: 1290909493}
   - component: {fileID: 1290909495}
   - component: {fileID: 1290909494}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (56)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19829,7 +19609,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 221
+  m_RootOrder: 209
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1290909494
 BoxCollider2D:
@@ -19919,7 +19699,7 @@ GameObject:
   - component: {fileID: 1291617074}
   - component: {fileID: 1291617076}
   - component: {fileID: 1291617075}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (13)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -19938,7 +19718,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 40
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1291617075
 BoxCollider2D:
@@ -20028,7 +19808,7 @@ GameObject:
   - component: {fileID: 1295177523}
   - component: {fileID: 1295177525}
   - component: {fileID: 1295177524}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (20)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20047,7 +19827,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 48
+  m_RootOrder: 36
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1295177524
 BoxCollider2D:
@@ -20137,7 +19917,7 @@ GameObject:
   - component: {fileID: 1312209614}
   - component: {fileID: 1312209616}
   - component: {fileID: 1312209615}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (38)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20156,7 +19936,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 156
+  m_RootOrder: 144
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1312209615
 BoxCollider2D:
@@ -20246,7 +20026,7 @@ GameObject:
   - component: {fileID: 1361379650}
   - component: {fileID: 1361379652}
   - component: {fileID: 1361379651}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (82)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20265,7 +20045,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 137
+  m_RootOrder: 125
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1361379651
 BoxCollider2D:
@@ -20355,7 +20135,7 @@ GameObject:
   - component: {fileID: 1363395039}
   - component: {fileID: 1363395041}
   - component: {fileID: 1363395040}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20374,7 +20154,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 33
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1363395040
 BoxCollider2D:
@@ -20453,50 +20233,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1368041229
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1368041230}
-  - component: {fileID: 1368041231}
-  m_Layer: 0
-  m_Name: SpawnPoint (47)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1368041230
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1368041229}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -144.83, y: 134.48, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 27
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1368041231
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1368041229}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &1375856269
 GameObject:
   m_ObjectHideFlags: 0
@@ -20508,7 +20244,7 @@ GameObject:
   - component: {fileID: 1375856270}
   - component: {fileID: 1375856272}
   - component: {fileID: 1375856271}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (61)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20527,7 +20263,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 184
+  m_RootOrder: 172
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1375856271
 BoxCollider2D:
@@ -20617,7 +20353,7 @@ GameObject:
   - component: {fileID: 1395924872}
   - component: {fileID: 1395924874}
   - component: {fileID: 1395924873}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (16)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20636,7 +20372,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 208
+  m_RootOrder: 196
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1395924873
 BoxCollider2D:
@@ -20726,7 +20462,7 @@ GameObject:
   - component: {fileID: 1403043025}
   - component: {fileID: 1403043027}
   - component: {fileID: 1403043026}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (26)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20745,7 +20481,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 145
+  m_RootOrder: 133
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1403043026
 BoxCollider2D:
@@ -20864,7 +20600,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1416919057}
   - component: {fileID: 1416919058}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 2 (12)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20883,7 +20619,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.3, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 255
+  m_RootOrder: 243
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -20}
 --- !u!212 &1416919058
 SpriteRenderer:
@@ -20947,7 +20683,7 @@ GameObject:
   - component: {fileID: 1418395103}
   - component: {fileID: 1418395105}
   - component: {fileID: 1418395104}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (17)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -20966,7 +20702,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 55
+  m_RootOrder: 43
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1418395104
 BoxCollider2D:
@@ -21056,7 +20792,7 @@ GameObject:
   - component: {fileID: 1424028581}
   - component: {fileID: 1424028583}
   - component: {fileID: 1424028582}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (17)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -21075,7 +20811,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 45
+  m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1424028582
 BoxCollider2D:
@@ -21165,7 +20901,7 @@ GameObject:
   - component: {fileID: 1429760581}
   - component: {fileID: 1429760583}
   - component: {fileID: 1429760582}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (43)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -21184,7 +20920,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 129
+  m_RootOrder: 117
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1429760582
 BoxCollider2D:
@@ -21274,7 +21010,7 @@ GameObject:
   - component: {fileID: 1438549128}
   - component: {fileID: 1438549130}
   - component: {fileID: 1438549129}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (19)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -21293,7 +21029,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 57
+  m_RootOrder: 45
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1438549129
 BoxCollider2D:
@@ -21383,7 +21119,7 @@ GameObject:
   - component: {fileID: 1455249329}
   - component: {fileID: 1455249331}
   - component: {fileID: 1455249330}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (21)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -21402,7 +21138,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 60
+  m_RootOrder: 48
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1455249330
 BoxCollider2D:
@@ -21492,7 +21228,7 @@ GameObject:
   - component: {fileID: 1455390729}
   - component: {fileID: 1455390731}
   - component: {fileID: 1455390730}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (65)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -21511,7 +21247,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 114
+  m_RootOrder: 102
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1455390730
 BoxCollider2D:
@@ -21601,7 +21337,7 @@ GameObject:
   - component: {fileID: 1470475128}
   - component: {fileID: 1470475130}
   - component: {fileID: 1470475129}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (50)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -21620,7 +21356,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 196
+  m_RootOrder: 184
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1470475129
 BoxCollider2D:
@@ -21710,7 +21446,7 @@ GameObject:
   - component: {fileID: 1478449870}
   - component: {fileID: 1478449872}
   - component: {fileID: 1478449871}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (2)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -21729,7 +21465,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 96
+  m_RootOrder: 84
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1478449871
 BoxCollider2D:
@@ -21852,18 +21588,6 @@ Transform:
   - {fileID: 1059720297}
   - {fileID: 789638051}
   - {fileID: 2115583194}
-  - {fileID: 504148856}
-  - {fileID: 1525237857}
-  - {fileID: 995971241}
-  - {fileID: 783931783}
-  - {fileID: 208214284}
-  - {fileID: 1900151530}
-  - {fileID: 1595493653}
-  - {fileID: 1529818036}
-  - {fileID: 219028250}
-  - {fileID: 1756940720}
-  - {fileID: 1368041230}
-  - {fileID: 2072362590}
   - {fileID: 1920132142}
   - {fileID: 1030791021}
   - {fileID: 1677274004}
@@ -22144,7 +21868,7 @@ GameObject:
   - component: {fileID: 1486560615}
   - component: {fileID: 1486560617}
   - component: {fileID: 1486560616}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (68)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -22163,7 +21887,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 236
+  m_RootOrder: 224
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1486560616
 BoxCollider2D:
@@ -22253,7 +21977,7 @@ GameObject:
   - component: {fileID: 1498999193}
   - component: {fileID: 1498999195}
   - component: {fileID: 1498999194}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (39)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -22272,7 +21996,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 68
+  m_RootOrder: 56
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1498999194
 BoxCollider2D:
@@ -22362,7 +22086,7 @@ GameObject:
   - component: {fileID: 1500890805}
   - component: {fileID: 1500890807}
   - component: {fileID: 1500890806}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (64)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -22381,7 +22105,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 187
+  m_RootOrder: 175
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1500890806
 BoxCollider2D:
@@ -22471,7 +22195,7 @@ GameObject:
   - component: {fileID: 1503559381}
   - component: {fileID: 1503559383}
   - component: {fileID: 1503559382}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (64)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -22490,7 +22214,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 231
+  m_RootOrder: 219
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1503559382
 BoxCollider2D:
@@ -22580,7 +22304,7 @@ GameObject:
   - component: {fileID: 1504316053}
   - component: {fileID: 1504316055}
   - component: {fileID: 1504316054}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_2 (2)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -22599,7 +22323,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 32
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1504316054
 BoxCollider2D:
@@ -22689,7 +22413,7 @@ GameObject:
   - component: {fileID: 1505350253}
   - component: {fileID: 1505350255}
   - component: {fileID: 1505350254}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (33)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -22708,7 +22432,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 64
+  m_RootOrder: 52
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1505350254
 BoxCollider2D:
@@ -22787,94 +22511,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1525237856
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1525237857}
-  - component: {fileID: 1525237858}
-  m_Layer: 0
-  m_Name: SpawnPoint (38)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1525237857
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1525237856}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -140.74, y: 107.76, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 18
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1525237858
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1525237856}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
---- !u!1 &1529818035
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1529818036}
-  - component: {fileID: 1529818037}
-  m_Layer: 0
-  m_Name: SpawnPoint (44)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1529818036
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1529818035}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -157.34, y: 124.310005, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 24
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1529818037
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1529818035}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &1533754492
 GameObject:
   m_ObjectHideFlags: 0
@@ -22886,7 +22522,7 @@ GameObject:
   - component: {fileID: 1533754493}
   - component: {fileID: 1533754495}
   - component: {fileID: 1533754494}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (048)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -22995,7 +22631,7 @@ GameObject:
   - component: {fileID: 1534802037}
   - component: {fileID: 1534802039}
   - component: {fileID: 1534802038}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (80)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23014,7 +22650,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 134
+  m_RootOrder: 122
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1534802038
 BoxCollider2D:
@@ -23103,7 +22739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1535144669}
   - component: {fileID: 1535144670}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 6 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23122,7 +22758,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 272
+  m_RootOrder: 260
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1535144670
 SpriteRenderer:
@@ -23185,7 +22821,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1545053501}
   - component: {fileID: 1545053502}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (30)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23204,7 +22840,7 @@ Transform:
   m_LocalScale: {x: 194.50879, y: 179.40715, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 92
+  m_RootOrder: 80
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1545053502
 SpriteRenderer:
@@ -23268,7 +22904,7 @@ GameObject:
   - component: {fileID: 1566030432}
   - component: {fileID: 1566030434}
   - component: {fileID: 1566030433}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (49)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23287,7 +22923,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 193
+  m_RootOrder: 181
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1566030433
 BoxCollider2D:
@@ -23377,7 +23013,7 @@ GameObject:
   - component: {fileID: 1570676918}
   - component: {fileID: 1570676920}
   - component: {fileID: 1570676919}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ColBoxEfx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23479,7 +23115,7 @@ GameObject:
   - component: {fileID: 1584216839}
   - component: {fileID: 1584216841}
   - component: {fileID: 1584216840}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (50)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23498,7 +23134,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 106
+  m_RootOrder: 94
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1584216840
 BoxCollider2D:
@@ -23588,7 +23224,7 @@ GameObject:
   - component: {fileID: 1587434179}
   - component: {fileID: 1587434181}
   - component: {fileID: 1587434180}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (16)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23607,7 +23243,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 54
+  m_RootOrder: 42
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1587434180
 BoxCollider2D:
@@ -23697,7 +23333,7 @@ GameObject:
   - component: {fileID: 1591036035}
   - component: {fileID: 1591036037}
   - component: {fileID: 1591036036}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (21)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23716,7 +23352,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 239
+  m_RootOrder: 227
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1591036036
 BoxCollider2D:
@@ -23795,50 +23431,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1595493652
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1595493653}
-  - component: {fileID: 1595493654}
-  m_Layer: 0
-  m_Name: SpawnPoint (43)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1595493653
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1595493652}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -140.98, y: 120.23, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 23
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1595493654
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1595493652}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &1595540046
 GameObject:
   m_ObjectHideFlags: 0
@@ -23850,7 +23442,7 @@ GameObject:
   - component: {fileID: 1595540047}
   - component: {fileID: 1595540049}
   - component: {fileID: 1595540048}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (49)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -23869,7 +23461,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 105
+  m_RootOrder: 93
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1595540048
 BoxCollider2D:
@@ -23959,7 +23551,7 @@ GameObject:
   - component: {fileID: 1595943606}
   - component: {fileID: 1595943608}
   - component: {fileID: 1595943607}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ColBoxEfx
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24061,7 +23653,7 @@ GameObject:
   - component: {fileID: 1596802616}
   - component: {fileID: 1596802618}
   - component: {fileID: 1596802617}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (52)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24080,7 +23672,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 108
+  m_RootOrder: 96
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1596802617
 BoxCollider2D:
@@ -24170,7 +23762,7 @@ GameObject:
   - component: {fileID: 1599319081}
   - component: {fileID: 1599319083}
   - component: {fileID: 1599319082}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (72)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24189,7 +23781,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 243
+  m_RootOrder: 231
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1599319082
 BoxCollider2D:
@@ -24279,7 +23871,7 @@ GameObject:
   - component: {fileID: 1601136552}
   - component: {fileID: 1601136554}
   - component: {fileID: 1601136553}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_57 (11)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24298,7 +23890,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 143
+  m_RootOrder: 131
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1601136553
 BoxCollider2D:
@@ -24388,7 +23980,7 @@ GameObject:
   - component: {fileID: 1621905683}
   - component: {fileID: 1621905685}
   - component: {fileID: 1621905684}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (54)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24407,7 +23999,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 88
+  m_RootOrder: 76
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1621905684
 BoxCollider2D:
@@ -24497,7 +24089,7 @@ GameObject:
   - component: {fileID: 1628831325}
   - component: {fileID: 1628831327}
   - component: {fileID: 1628831326}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (30)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24516,7 +24108,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 63
+  m_RootOrder: 51
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1628831326
 BoxCollider2D:
@@ -24606,7 +24198,7 @@ GameObject:
   - component: {fileID: 1657588087}
   - component: {fileID: 1657588089}
   - component: {fileID: 1657588088}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (13)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24625,7 +24217,7 @@ Transform:
   m_LocalScale: {x: 45, y: 45, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 171
+  m_RootOrder: 159
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1657588088
 BoxCollider2D:
@@ -24715,7 +24307,7 @@ GameObject:
   - component: {fileID: 1659721756}
   - component: {fileID: 1659721758}
   - component: {fileID: 1659721757}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (91)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24734,7 +24326,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 181
+  m_RootOrder: 169
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1659721757
 BoxCollider2D:
@@ -24824,7 +24416,7 @@ GameObject:
   - component: {fileID: 1659865142}
   - component: {fileID: 1659865144}
   - component: {fileID: 1659865143}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (5)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24843,7 +24435,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 100
+  m_RootOrder: 88
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1659865143
 BoxCollider2D:
@@ -24933,7 +24525,7 @@ GameObject:
   - component: {fileID: 1665742506}
   - component: {fileID: 1665742508}
   - component: {fileID: 1665742507}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (52)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -24952,7 +24544,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 215
+  m_RootOrder: 203
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1665742507
 BoxCollider2D:
@@ -25042,7 +24634,7 @@ GameObject:
   - component: {fileID: 1675200953}
   - component: {fileID: 1675200955}
   - component: {fileID: 1675200954}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (52)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25061,7 +24653,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 86
+  m_RootOrder: 74
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1675200954
 BoxCollider2D:
@@ -25150,7 +24742,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1675505960}
   - component: {fileID: 1675505961}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (17)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25169,7 +24761,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 248
+  m_RootOrder: 236
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1675505961
 SpriteRenderer:
@@ -25233,7 +24825,7 @@ GameObject:
   - component: {fileID: 1677274004}
   - component: {fileID: 1677274006}
   - component: {fileID: 1677274005}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (55)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25252,7 +24844,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 31
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1677274005
 BoxCollider2D:
@@ -25341,7 +24933,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1701948840}
   - component: {fileID: 1701948841}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (41)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25360,7 +24952,7 @@ Transform:
   m_LocalScale: {x: 277.17502, y: 179.40715, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 252
+  m_RootOrder: 240
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1701948841
 SpriteRenderer:
@@ -25423,7 +25015,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1713724242}
   - component: {fileID: 1713724243}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 4 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25442,7 +25034,7 @@ Transform:
   m_LocalScale: {x: 0.4, y: 1.5, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 265
+  m_RootOrder: 253
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1713724243
 SpriteRenderer:
@@ -25506,7 +25098,7 @@ GameObject:
   - component: {fileID: 1717435120}
   - component: {fileID: 1717435122}
   - component: {fileID: 1717435121}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (10)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25525,7 +25117,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 142
+  m_RootOrder: 130
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1717435121
 BoxCollider2D:
@@ -25615,7 +25207,7 @@ GameObject:
   - component: {fileID: 1720091993}
   - component: {fileID: 1720091995}
   - component: {fileID: 1720091994}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (73)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25634,7 +25226,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 247
+  m_RootOrder: 235
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1720091994
 BoxCollider2D:
@@ -25724,7 +25316,7 @@ GameObject:
   - component: {fileID: 1723372390}
   - component: {fileID: 1723372392}
   - component: {fileID: 1723372391}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (72)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25743,7 +25335,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 166
+  m_RootOrder: 154
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1723372391
 BoxCollider2D:
@@ -25833,7 +25425,7 @@ GameObject:
   - component: {fileID: 1730933640}
   - component: {fileID: 1730933642}
   - component: {fileID: 1730933641}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (46)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25852,7 +25444,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 164
+  m_RootOrder: 152
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1730933641
 BoxCollider2D:
@@ -25941,7 +25533,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1738243734}
   - component: {fileID: 1738243735}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (31)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -25960,7 +25552,7 @@ Transform:
   m_LocalScale: {x: 194.50879, y: 179.40715, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 274
+  m_RootOrder: 262
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1738243735
 SpriteRenderer:
@@ -26023,7 +25615,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1743624112}
   - component: {fileID: 1743624113}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 3 (4)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26042,7 +25634,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 0.9, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 262
+  m_RootOrder: 250
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1743624113
 SpriteRenderer:
@@ -26106,7 +25698,7 @@ GameObject:
   - component: {fileID: 1746931238}
   - component: {fileID: 1746931240}
   - component: {fileID: 1746931239}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (69)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26125,7 +25717,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 237
+  m_RootOrder: 225
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1746931239
 BoxCollider2D:
@@ -26215,7 +25807,7 @@ GameObject:
   - component: {fileID: 1749373702}
   - component: {fileID: 1749373704}
   - component: {fileID: 1749373703}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (51)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26234,7 +25826,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 213
+  m_RootOrder: 201
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1749373703
 BoxCollider2D:
@@ -26324,7 +25916,7 @@ GameObject:
   - component: {fileID: 1753253408}
   - component: {fileID: 1753253410}
   - component: {fileID: 1753253409}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (78)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26343,7 +25935,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 169
+  m_RootOrder: 157
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1753253409
 BoxCollider2D:
@@ -26432,7 +26024,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1756503389}
   - component: {fileID: 1756503390}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (62)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26451,7 +26043,7 @@ Transform:
   m_LocalScale: {x: 194.50879, y: 341.01056, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 294
+  m_RootOrder: 282
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1756503390
 SpriteRenderer:
@@ -26504,50 +26096,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1756940719
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1756940720}
-  - component: {fileID: 1756940721}
-  m_Layer: 0
-  m_Name: SpawnPoint (46)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1756940720
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1756940719}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -157.8, y: 131.97, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 26
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1756940721
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1756940719}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &1761757527
 GameObject:
   m_ObjectHideFlags: 0
@@ -26559,7 +26107,7 @@ GameObject:
   - component: {fileID: 1761757528}
   - component: {fileID: 1761757530}
   - component: {fileID: 1761757529}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset-sliced_1 (18)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26578,7 +26126,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 8}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 56
+  m_RootOrder: 44
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1761757529
 BoxCollider2D:
@@ -26668,7 +26216,7 @@ GameObject:
   - component: {fileID: 1790180197}
   - component: {fileID: 1790180199}
   - component: {fileID: 1790180198}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (48)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26687,7 +26235,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 104
+  m_RootOrder: 92
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1790180198
 BoxCollider2D:
@@ -26777,7 +26325,7 @@ GameObject:
   - component: {fileID: 1796144620}
   - component: {fileID: 1796144622}
   - component: {fileID: 1796144621}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (66)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26796,7 +26344,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 234
+  m_RootOrder: 222
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1796144621
 BoxCollider2D:
@@ -26886,7 +26434,7 @@ GameObject:
   - component: {fileID: 1797637276}
   - component: {fileID: 1797637278}
   - component: {fileID: 1797637277}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (51)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -26905,7 +26453,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 107
+  m_RootOrder: 95
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1797637277
 BoxCollider2D:
@@ -26995,7 +26543,7 @@ GameObject:
   - component: {fileID: 1808945049}
   - component: {fileID: 1808945051}
   - component: {fileID: 1808945050}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (41)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27014,7 +26562,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 70
+  m_RootOrder: 58
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1808945050
 BoxCollider2D:
@@ -27104,7 +26652,7 @@ GameObject:
   - component: {fileID: 1811985384}
   - component: {fileID: 1811985386}
   - component: {fileID: 1811985385}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (29)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27124,7 +26672,7 @@ Transform:
   m_Children:
   - {fileID: 1570676918}
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 288
+  m_RootOrder: 276
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1811985385
 BoxCollider2D:
@@ -27214,7 +26762,7 @@ GameObject:
   - component: {fileID: 1821826561}
   - component: {fileID: 1821826563}
   - component: {fileID: 1821826562}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (39)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27233,7 +26781,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 216
+  m_RootOrder: 204
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1821826562
 BoxCollider2D:
@@ -27322,7 +26870,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1821966344}
   - component: {fileID: 1821966345}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SpawnPoint (47)
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
@@ -27341,7 +26889,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 210
+  m_RootOrder: 198
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1821966345
 MonoBehaviour:
@@ -27367,7 +26915,7 @@ GameObject:
   - component: {fileID: 1832563747}
   - component: {fileID: 1832563749}
   - component: {fileID: 1832563748}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (59)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27386,7 +26934,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 227
+  m_RootOrder: 215
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1832563748
 BoxCollider2D:
@@ -27476,7 +27024,7 @@ GameObject:
   - component: {fileID: 1835235667}
   - component: {fileID: 1835235669}
   - component: {fileID: 1835235668}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (33)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27495,7 +27043,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 151
+  m_RootOrder: 139
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1835235668
 BoxCollider2D:
@@ -27585,7 +27133,7 @@ GameObject:
   - component: {fileID: 1845253535}
   - component: {fileID: 1845253537}
   - component: {fileID: 1845253536}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (54)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27604,7 +27152,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 219
+  m_RootOrder: 207
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1845253536
 BoxCollider2D:
@@ -27884,7 +27432,7 @@ GameObject:
   - component: {fileID: 1855228645}
   - component: {fileID: 1855228647}
   - component: {fileID: 1855228646}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (46)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -27903,7 +27451,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 83
+  m_RootOrder: 71
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1855228646
 BoxCollider2D:
@@ -27993,7 +27541,7 @@ GameObject:
   - component: {fileID: 1866422082}
   - component: {fileID: 1866422084}
   - component: {fileID: 1866422083}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (3)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28012,7 +27560,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 119
+  m_RootOrder: 107
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1866422083
 BoxCollider2D:
@@ -28102,7 +27650,7 @@ GameObject:
   - component: {fileID: 1875871507}
   - component: {fileID: 1875871509}
   - component: {fileID: 1875871508}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (28)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28121,7 +27669,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 147
+  m_RootOrder: 135
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1875871508
 BoxCollider2D:
@@ -28211,7 +27759,7 @@ GameObject:
   - component: {fileID: 1887788218}
   - component: {fileID: 1887788220}
   - component: {fileID: 1887788219}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (55)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28230,7 +27778,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 220
+  m_RootOrder: 208
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1887788219
 BoxCollider2D:
@@ -28319,7 +27867,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1890432933}
   - component: {fileID: 1890432934}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 2 (13)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28338,7 +27886,7 @@ Transform:
   m_LocalScale: {x: 0.6, y: 1.2, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 275
+  m_RootOrder: 263
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1890432934
 SpriteRenderer:
@@ -28401,7 +27949,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1898410804}
   - component: {fileID: 1898410805}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 2 (6)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28420,7 +27968,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 0.9, z: 0.77813}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 276
+  m_RootOrder: 264
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1898410805
 SpriteRenderer:
@@ -28484,7 +28032,7 @@ GameObject:
   - component: {fileID: 1899848963}
   - component: {fileID: 1899848965}
   - component: {fileID: 1899848964}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (50)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28503,7 +28051,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 289
+  m_RootOrder: 277
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1899848964
 BoxCollider2D:
@@ -28582,50 +28130,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1900151529
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1900151530}
-  - component: {fileID: 1900151531}
-  m_Layer: 0
-  m_Name: SpawnPoint (42)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1900151530
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1900151529}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -157.76001, y: 113.8, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 22
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1900151531
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1900151529}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &1920132141
 GameObject:
   m_ObjectHideFlags: 0
@@ -28636,7 +28140,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1920132142}
   - component: {fileID: 1920132143}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (39)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28655,7 +28159,7 @@ Transform:
   m_LocalScale: {x: 194.50879, y: 179.40715, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 29
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1920132143
 SpriteRenderer:
@@ -28719,7 +28223,7 @@ GameObject:
   - component: {fileID: 1926626719}
   - component: {fileID: 1926626721}
   - component: {fileID: 1926626720}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (4)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28738,7 +28242,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 99
+  m_RootOrder: 87
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1926626720
 BoxCollider2D:
@@ -28828,7 +28332,7 @@ GameObject:
   - component: {fileID: 1938719829}
   - component: {fileID: 1938719831}
   - component: {fileID: 1938719830}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (049)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28937,7 +28441,7 @@ GameObject:
   - component: {fileID: 1943659066}
   - component: {fileID: 1943659068}
   - component: {fileID: 1943659067}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (19)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -28956,7 +28460,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 224
+  m_RootOrder: 212
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1943659067
 BoxCollider2D:
@@ -29046,7 +28550,7 @@ GameObject:
   - component: {fileID: 1948849865}
   - component: {fileID: 1948849867}
   - component: {fileID: 1948849866}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (92)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29065,7 +28569,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 182
+  m_RootOrder: 170
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1948849866
 BoxCollider2D:
@@ -29155,7 +28659,7 @@ GameObject:
   - component: {fileID: 1953080384}
   - component: {fileID: 1953080386}
   - component: {fileID: 1953080385}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (43)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29174,7 +28678,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 80
+  m_RootOrder: 68
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1953080385
 BoxCollider2D:
@@ -29264,7 +28768,7 @@ GameObject:
   - component: {fileID: 1955169189}
   - component: {fileID: 1955169191}
   - component: {fileID: 1955169190}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (38)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29283,7 +28787,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 67
+  m_RootOrder: 55
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1955169190
 BoxCollider2D:
@@ -29373,7 +28877,7 @@ GameObject:
   - component: {fileID: 1961943235}
   - component: {fileID: 1961943237}
   - component: {fileID: 1961943236}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (20)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29392,7 +28896,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 225
+  m_RootOrder: 213
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1961943236
 BoxCollider2D:
@@ -29481,7 +28985,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1997362611}
   - component: {fileID: 1997362612}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 6 (4)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29500,7 +29004,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 256
+  m_RootOrder: 244
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1997362612
 SpriteRenderer:
@@ -29564,7 +29068,7 @@ GameObject:
   - component: {fileID: 2006164205}
   - component: {fileID: 2006164207}
   - component: {fileID: 2006164206}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_preview_16 (31)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29584,7 +29088,7 @@ Transform:
   m_Children:
   - {fileID: 1595943606}
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 286
+  m_RootOrder: 274
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2006164206
 BoxCollider2D:
@@ -29674,7 +29178,7 @@ GameObject:
   - component: {fileID: 2007330112}
   - component: {fileID: 2007330114}
   - component: {fileID: 2007330113}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (53)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29693,7 +29197,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 218
+  m_RootOrder: 206
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2007330113
 BoxCollider2D:
@@ -29783,7 +29287,7 @@ GameObject:
   - component: {fileID: 2017759549}
   - component: {fileID: 2017759551}
   - component: {fileID: 2017759550}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (12)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29802,7 +29306,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 122
+  m_RootOrder: 110
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2017759550
 BoxCollider2D:
@@ -29891,7 +29395,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2018301914}
   - component: {fileID: 2018301915}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (45)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29910,7 +29414,7 @@ Transform:
   m_LocalScale: {x: 115.729256, y: 101.76678, z: 29.413893}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 253
+  m_RootOrder: 241
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2018301915
 SpriteRenderer:
@@ -29974,7 +29478,7 @@ GameObject:
   - component: {fileID: 2039448252}
   - component: {fileID: 2039448254}
   - component: {fileID: 2039448253}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (4)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -29993,7 +29497,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 120
+  m_RootOrder: 108
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2039448253
 BoxCollider2D:
@@ -30083,7 +29587,7 @@ GameObject:
   - component: {fileID: 2041604229}
   - component: {fileID: 2041604231}
   - component: {fileID: 2041604230}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: tileset_57 (19)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30102,7 +29606,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 197
+  m_RootOrder: 185
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2041604230
 BoxCollider2D:
@@ -30192,7 +29696,7 @@ GameObject:
   - component: {fileID: 2043043004}
   - component: {fileID: 2043043006}
   - component: {fileID: 2043043005}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (35)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30211,7 +29715,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 84
+  m_RootOrder: 72
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2043043005
 BoxCollider2D:
@@ -30301,7 +29805,7 @@ GameObject:
   - component: {fileID: 2052586820}
   - component: {fileID: 2052586822}
   - component: {fileID: 2052586821}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (62)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30320,7 +29824,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 229
+  m_RootOrder: 217
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2052586821
 BoxCollider2D:
@@ -30409,7 +29913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2053000974}
   - component: {fileID: 2053000975}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (59)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30428,7 +29932,7 @@ Transform:
   m_LocalScale: {x: 194.50879, y: 341.01056, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 270
+  m_RootOrder: 258
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2053000975
 SpriteRenderer:
@@ -30492,7 +29996,7 @@ GameObject:
   - component: {fileID: 2060732393}
   - component: {fileID: 2060732395}
   - component: {fileID: 2060732394}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (042)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30601,7 +30105,7 @@ GameObject:
   - component: {fileID: 2069355124}
   - component: {fileID: 2069355126}
   - component: {fileID: 2069355125}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (67)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30620,7 +30124,7 @@ Transform:
   m_LocalScale: {x: 13, y: 13, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 188
+  m_RootOrder: 176
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2069355125
 BoxCollider2D:
@@ -30699,50 +30203,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &2072362589
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2072362590}
-  - component: {fileID: 2072362591}
-  m_Layer: 0
-  m_Name: SpawnPoint (48)
-  m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &2072362590
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2072362589}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -157.57, y: 138.59, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1484540309}
-  m_RootOrder: 28
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2072362591
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2072362589}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a80d185e2965b2641ade78739d253609, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  existChild: 0
 --- !u!1 &2076923775
 GameObject:
   m_ObjectHideFlags: 0
@@ -30754,7 +30214,7 @@ GameObject:
   - component: {fileID: 2076923776}
   - component: {fileID: 2076923778}
   - component: {fileID: 2076923777}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (70)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30773,7 +30233,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 241
+  m_RootOrder: 229
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2076923777
 BoxCollider2D:
@@ -30863,7 +30323,7 @@ GameObject:
   - component: {fileID: 2078324245}
   - component: {fileID: 2078324247}
   - component: {fileID: 2078324246}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (51)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30882,7 +30342,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 85
+  m_RootOrder: 73
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2078324246
 BoxCollider2D:
@@ -30972,7 +30432,7 @@ GameObject:
   - component: {fileID: 2091809644}
   - component: {fileID: 2091809646}
   - component: {fileID: 2091809645}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_3 (12)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -30991,7 +30451,7 @@ Transform:
   m_LocalScale: {x: -8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 204
+  m_RootOrder: 192
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2091809645
 BoxCollider2D:
@@ -31081,7 +30541,7 @@ GameObject:
   - component: {fileID: 2115583194}
   - component: {fileID: 2115583196}
   - component: {fileID: 2115583195}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_17 (053)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -31190,7 +30650,7 @@ GameObject:
   - component: {fileID: 2122076429}
   - component: {fileID: 2122076431}
   - component: {fileID: 2122076430}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_2
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -31209,7 +30669,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 93
+  m_RootOrder: 81
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2122076430
 BoxCollider2D:
@@ -31299,7 +30759,7 @@ GameObject:
   - component: {fileID: 2132401519}
   - component: {fileID: 2132401521}
   - component: {fileID: 2132401520}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_57 (5)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -31318,7 +30778,7 @@ Transform:
   m_LocalScale: {x: 8, y: 8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 121
+  m_RootOrder: 109
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2132401520
 BoxCollider2D:
@@ -31408,7 +30868,7 @@ GameObject:
   - component: {fileID: 2133163819}
   - component: {fileID: 2133163821}
   - component: {fileID: 2133163820}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (26)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -31427,7 +30887,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 53
+  m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2133163820
 BoxCollider2D:
@@ -31516,7 +30976,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2138601334}
   - component: {fileID: 2138601335}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: 4 (14)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -31535,7 +30995,7 @@ Transform:
   m_LocalScale: {x: 0.75, y: 0.8, z: 1}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 260
+  m_RootOrder: 248
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2138601335
 SpriteRenderer:
@@ -31598,7 +31058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2144149049}
   - component: {fileID: 2144149050}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_32 (61)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -31617,7 +31077,7 @@ Transform:
   m_LocalScale: {x: 194.50879, y: 341.01056, z: 58.179665}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 283
+  m_RootOrder: 271
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2144149050
 SpriteRenderer:
@@ -31681,7 +31141,7 @@ GameObject:
   - component: {fileID: 2145193001}
   - component: {fileID: 2145193003}
   - component: {fileID: 2145193002}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: tileset_preview_16 (21)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -31700,7 +31160,7 @@ Transform:
   m_LocalScale: {x: 7, y: 7, z: 6}
   m_Children: []
   m_Father: {fileID: 1484540309}
-  m_RootOrder: 49
+  m_RootOrder: 37
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &2145193002
 BoxCollider2D:

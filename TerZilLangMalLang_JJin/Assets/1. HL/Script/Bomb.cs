@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bomb : MonoBehaviour
 {
-    public float speed = 5f;
+    public float speed = 9f;
     public int getDamage_NB = 10;
 
     GameObject player;

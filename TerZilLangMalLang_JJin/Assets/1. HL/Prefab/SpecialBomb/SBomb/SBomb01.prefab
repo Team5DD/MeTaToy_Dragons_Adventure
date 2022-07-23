@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 608809285306206267}
   - component: {fileID: -2892598965416719770}
   - component: {fileID: -804953688205229523}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SBomb01
   m_TagString: SBomb
   m_Icon: {fileID: 0}
@@ -144,4 +144,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   getDamage_NB: 10
-  Bomb: {fileID: 608809285306206264}

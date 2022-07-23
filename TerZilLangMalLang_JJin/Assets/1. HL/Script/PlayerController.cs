@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
 
     VirtualJoystick virtualJoystick;
     [SerializeField]
-    private float moveSpeed = 5;
+    private float moveSpeed = 7;
     public float jumpPower = 5f;
     Rigidbody2D rigid2d;
 

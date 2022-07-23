@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpecialBomb : MonoBehaviour
 {
-    public float speed = 8f;
+    public float speed = 9f;
     public int getDamage_SB = 25;
     void Start()
     {

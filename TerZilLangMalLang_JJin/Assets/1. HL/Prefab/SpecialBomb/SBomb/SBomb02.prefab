@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3773173028597958601}
   - component: {fileID: 3773173028597958606}
   - component: {fileID: -211922579044523717}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SBomb02
   m_TagString: SBomb
   m_Icon: {fileID: 0}
