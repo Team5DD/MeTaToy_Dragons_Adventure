@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3529535798021477947
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3529535798021477945}
+  - component: {fileID: 3529535798021477944}
+  m_Layer: 0
+  m_Name: BombManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3529535798021477945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529535798021477947}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.182, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3529535798021477944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3529535798021477947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e3111a7c4e1714b82ddd7d11af1a1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfx_Clips:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  firePositon_L: {fileID: 0}
+  firePositon_R: {fileID: 0}
+  nBombFactory:
+  - {fileID: 6092248049517509084, guid: ddba0d84adfce3f4782ec6181e3d078a, type: 3}
+  - {fileID: 4608440928267509533, guid: f84640aeb9b2dee4f9c1412e80160542, type: 3}
+  - {fileID: 8343930895164733225, guid: 1412ddbbcfee4e8458b970aebf904ba7, type: 3}
+  - {fileID: 2914058647173303988, guid: 4549984ee082ec44c88af4eeff20c3bc, type: 3}
+  - {fileID: 1561350433515997786, guid: fdd9fffe2a586764f85d61b2732836b4, type: 3}
+  sBombFactory:
+  - {fileID: 608809285306206264, guid: 6aab0d832db0ebc4fbd3b4fa5a538a4a, type: 3}
+  - {fileID: 3773173028597958607, guid: b925a6d378bda7d40b8bf2b9bc5ffe46, type: 3}
+  - {fileID: 4121603852306918568, guid: 5884ae40d9e880b488018e84dee6e8dd, type: 3}
+  - {fileID: 7812814894083691330, guid: 2fcb6c80a816f0244b01c1f821fae9f5, type: 3}
+  - {fileID: 4472884465864104329, guid: 4101b00b507013c4f8a34b3ea54abeea, type: 3}
+  buttonIT: {fileID: 0}
+  PlayerSR: {fileID: 0}

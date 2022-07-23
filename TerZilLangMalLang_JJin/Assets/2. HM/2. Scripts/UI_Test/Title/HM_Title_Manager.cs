@@ -46,14 +46,12 @@ public class HM_Title_Manager : MonoBehaviour
 
         MakeTicketRanNum();
         AutoSave.instance.TicketRandNum = ticket_RandNum;
-        TurnOnCharacter();
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        print(Input.touchCount);
-
         if (Input.touchCount > 0 && titleOff == false)
         {
             Touch touch = Input.GetTouch(0);
@@ -65,12 +63,15 @@ public class HM_Title_Manager : MonoBehaviour
                 //characters.SetActive(true);
                 title_UI.SetActive(false);
                 backGround.SetActive(true);
+                TurnOnCharacter();
             }
         }
     }
 
     void TurnOnCharacter()
     {
+        characaters[0].SetActive(true);
+
         if (AutoSave.instance.gameData.isClear_1 == true)
         {
             characaters[1].SetActive(true);
@@ -127,12 +128,12 @@ public class HM_Title_Manager : MonoBehaviour
 
          
 
-        if(AutoSave.instance.isTitleSkip == false)
+        if(AutoSave.instance.gameData.isTitleSkip == false)
         {
             backGround.SetActive(false);
             char_Choice_UI.SetActive(false);
             typing_UI.SetActive(true);
-            AutoSave.instance.isTitleSkip = true;
+            AutoSave.instance.gameData.isTitleSkip = true;
 
             fadeCount = 1;
             while (fadeCount > 0.0f)

@@ -6,6 +6,9 @@ using UnityEngine.UI;
 public class PlayerHP : MonoBehaviour
 {
     SpriteRenderer sp;
+    GameObject sfxManager;
+    AudioSource hit_sfx;
+    AudioSource die_sfx;
     public static PlayerHP instance;
     private void Awake()
     {
@@ -18,6 +21,9 @@ public class PlayerHP : MonoBehaviour
     {
         playerHP = GameObject.Find("PlayerHP").GetComponentsInChildren<Image>();
         sp = this.gameObject.GetComponent<SpriteRenderer>();
+        sfxManager = GameObject.Find("BGMManager");
+        hit_sfx = sfxManager.transform.GetChild(4).GetComponent<AudioSource>();
+        die_sfx = sfxManager.transform.GetChild(3).GetComponent<AudioSource>();
     }
     IEnumerator blink()
     {
@@ -33,8 +39,9 @@ public class PlayerHP : MonoBehaviour
 
     private void Update()
     {
-        if(damagecount == 10)
+        if (damagecount == 10)
         {
+            die_sfx.Play();
             Time.timeScale = 0;
             CharacterOpen.instance.GameOverUI();
         }
@@ -44,10 +51,14 @@ public class PlayerHP : MonoBehaviour
     {
         if (collision.gameObject.tag == "Enemy")
         {
+            if (!hit_sfx.isPlaying)
+            {
+                hit_sfx.Play();
+            }
             StartCoroutine("blink");
             damagecount++;
-            playerHP[damagecount-1].gameObject.SetActive(false);
-            
+            playerHP[damagecount - 1].gameObject.SetActive(false);
+
         }
 
     }

@@ -35,9 +35,10 @@ public class AutoSave : MonoBehaviour
     public string save_char_Name;
     public int save_nft_Number;
     public int save_StageClear;
-    public bool isTitleSkip = false;
+    
     public string TicketRandNum;
 
+    [SerializeField]
     public class GameData
     {
         public bool isClear_1 = false;
@@ -45,6 +46,7 @@ public class AutoSave : MonoBehaviour
         public bool isClear_3 = false;
         public bool isClear_4 = false;
         public bool isClear_5 = false;
+        public bool isTitleSkip = false;
     }
 
     // --- 게임 데이터 파일이름 설정 ---
@@ -114,17 +116,14 @@ public class AutoSave : MonoBehaviour
         print("2는 " + gameData.isClear_2);
         print("3는 " + gameData.isClear_3);
         print("4는 " + gameData.isClear_4);
+        print("5는 " + gameData.isClear_5);
         print(filePath);
     }
 
     void Update()
     {
         DontDestroyOnLoad(this);
-        print("1" + gameData.isClear_1);
-        print("2" + gameData.isClear_2);
-        print("3" + gameData.isClear_3);
-        print("4" + gameData.isClear_4);
-        print("5" + gameData.isClear_5);
+       
     }
 
     // 게임을 종료하면 자동저장되도록

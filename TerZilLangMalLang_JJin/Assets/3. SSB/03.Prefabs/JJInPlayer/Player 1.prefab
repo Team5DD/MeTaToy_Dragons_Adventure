@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5985408465410434243}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.91, z: -15.51}
+  m_LocalPosition: {x: 0, y: 0, z: -12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5985408465826682828}
@@ -61,7 +61,7 @@ Camera:
   field of view: 45
   orthographic: 0
   orthographic size: 5
-  m_Depth: 6
+  m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -91,7 +91,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5985408465410434243}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 93644149e6fc61348b27880741e2889a, type: 3}
   m_Name: 
@@ -158,7 +158,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5985408465826682866}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.76, y: 4.29, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5985408467380353068}
@@ -277,17 +277,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83a50acea93f28b449d61c5f29d66f38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerHP:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
   damagecount: 0
 --- !u!114 &5985408465826682865
 MonoBehaviour:
@@ -301,12 +290,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 354d63d2bd7592048850056a3199622e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  virtualJoystick: {fileID: 0}
+  moveSpeed: 5
   jumpPower: 8
   Enemy: []
   JumpCount: 2
-  playerHP: {fileID: 0}
-  effectFactoy: []
 --- !u!61 &5985408465826682827
 BoxCollider2D:
   m_ObjectHideFlags: 0

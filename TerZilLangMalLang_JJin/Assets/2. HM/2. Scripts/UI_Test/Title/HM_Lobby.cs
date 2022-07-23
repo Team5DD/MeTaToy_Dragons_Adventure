@@ -9,17 +9,14 @@ public class HM_Lobby : MonoBehaviour
     //Animator anim;
     SpriteRenderer spriteRenderer;
 
-    
-
     // Start is called before the first frame update
-    void Awake()
+    void Start()
     {
         rigid = GetComponent<Rigidbody2D>();
         //anim = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
 
-        Invoke("Think", 2);
-        StartCoroutine(ChatMessage());
+        Invoke("Think", 0.5f);
 
     }
 
@@ -40,6 +37,7 @@ public class HM_Lobby : MonoBehaviour
     //재귀함수 : 자신을 스스로 호출하는 함수
     void Think()
     {
+        print("Think()");
         //Set Next Active
         nextMove = Random.Range(-1, 2);
         //Sprite Animation
@@ -62,14 +60,4 @@ public class HM_Lobby : MonoBehaviour
         Invoke("Think", 2);
     }
 
-    IEnumerator ChatMessage()
-    {
-        float a = Random.Range(3, 10);
-        yield return new WaitForSeconds(a);
-        
-
-        yield return new WaitForSeconds(2f);
-        
-        StartCoroutine(ChatMessage());
-    }
 }

@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Bombmanager : MonoBehaviour
 {
+    public AudioSource[] sfx_Clips; 
     public Transform firePositon_L;
     public Transform firePositon_R;
 
@@ -26,6 +27,8 @@ public class Bombmanager : MonoBehaviour
         firePositon_R = PlayerTag.transform.GetChild(1);
 
         PlayerSR = PlayerTag.gameObject.GetComponent<SpriteRenderer>();
+
+        //sfx_Clips = new AudioSource[sfx_Clips.Length];
     }
 
     void Update()
@@ -58,17 +61,17 @@ public class Bombmanager : MonoBehaviour
     public void OnButtonJump()
     {
         PlayerTag.GetComponent<PlayerController>().OnButtonDown();
+        sfx_Clips[5].Play();
     }
 
 
     public void OnButtonDownNomal()
     {
-
-
         // GameObject bomb = Instantiate(nBombFactory[0]);
         //GameObject bomb = Instantiate(nBombFactory[0], firePositon_L.position, firePositon_L.transform.rotation) ;
 
         GameObject bomb;
+        sfx_Clips[2].Play();
         if (PlayerSR.flipX == false)
         {
             if (PlayerTag.name.Contains("1"))
@@ -137,6 +140,7 @@ public class Bombmanager : MonoBehaviour
     public void OnButtonDownSpecial()
     {
         GameObject bomb;
+        sfx_Clips[9].Play();
         if (PlayerSR.flipX == false)
         {
             if (PlayerTag.name.Contains("1"))

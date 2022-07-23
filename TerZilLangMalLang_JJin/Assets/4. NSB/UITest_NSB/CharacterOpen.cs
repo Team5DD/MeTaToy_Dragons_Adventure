@@ -104,6 +104,7 @@ public class CharacterOpen : MonoBehaviour
 
    public void TurnOff()
     {
+        print("버튼 눌림");
         StartUIImg.SetActive(false);
         ClearUIImg.SetActive(false);
         GameOverUIImg.SetActive(false);

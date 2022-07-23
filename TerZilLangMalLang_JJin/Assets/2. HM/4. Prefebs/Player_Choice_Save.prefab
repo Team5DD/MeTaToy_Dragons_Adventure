@@ -75,11 +75,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   char_Prefeb:
-  - {fileID: 8853111763574873921, guid: afa233a4b712d3145b140ad0813a7b5e, type: 3}
-  - {fileID: 2957891238413510001, guid: 87d9f4324df5d8e4eab2bafd6b93f11a, type: 3}
-  - {fileID: 5034732408134809484, guid: 91d5d1d70e80e784e865d7a243d813d2, type: 3}
-  - {fileID: 4428539030401632119, guid: 301779c79347e1b4c89536ba3aefa0b2, type: 3}
-  - {fileID: 1598042287701448041, guid: 197c8b43c60698c4fb58dda3d38f590f, type: 3}
+  - {fileID: 5985408465826682866, guid: 103688e75b9d09c4f89bdfb286bc431d, type: 3}
+  - {fileID: 8529852587826335607, guid: d4424b01528ed85458c7e3af4b0be7b9, type: 3}
+  - {fileID: 1374297873978462289, guid: 600eef6175d0d454eb026ff16b6cd182, type: 3}
+  - {fileID: 7004590646756315710, guid: 06483ce99bbf11146ace8f16adfe0050, type: 3}
+  - {fileID: 3943747622051323804, guid: 69d87913b3a41324184a4b152f54f288, type: 3}
   char_Prefeb_Choice: {fileID: 0}
   save_char_Img: {fileID: 0}
   save_char_Name: 

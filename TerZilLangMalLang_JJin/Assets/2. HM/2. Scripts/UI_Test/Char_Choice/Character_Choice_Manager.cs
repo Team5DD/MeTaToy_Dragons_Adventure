@@ -247,7 +247,17 @@ public class Character_Choice_Manager : MonoBehaviour
             gameStart.interactable = true;
             AutoSave.instance.char_Prefeb_Choice = AutoSave.instance.char_Prefeb[selectCharCount];
         }
-        SceneManager.LoadScene(2);
+
+        if (AutoSave.instance.gameData.isClear_4 == true) 
+        { SceneManager.LoadScene("Stage5"); }
+        else if (AutoSave.instance.gameData.isClear_3 == true) 
+        { SceneManager.LoadScene("Stage4"); }
+        else if (AutoSave.instance.gameData.isClear_2 == true) 
+        { SceneManager.LoadScene("Stage3"); }
+        else if (AutoSave.instance.gameData.isClear_1 == true) 
+        { SceneManager.LoadScene("Stage2"); }
+        else if (AutoSave.instance.gameData.isClear_1 == false) 
+        { SceneManager.LoadScene("Stage1"); }
     }
 
     public void TicketClik()
