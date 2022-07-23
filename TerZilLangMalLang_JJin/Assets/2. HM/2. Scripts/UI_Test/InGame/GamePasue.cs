@@ -3,14 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GoLobby : MonoBehaviour
+public class GamePasue : MonoBehaviour
 {
+    public GameObject continue_Btn;
+    public GameObject exit_Btn;
     public GameObject loadingUI;
+    public void ContinueBtn()
+    {
+        Time.timeScale = 1;
+        this.gameObject.SetActive(false);
+    }
 
-    public void GoLobbyBtn_Clik()
+    public void ExitBtn()
     {
         loadingUI.SetActive(true);
-
+        Time.timeScale = 1;
         StartCoroutine(SceneLoading());
     }
 
@@ -19,7 +26,7 @@ public class GoLobby : MonoBehaviour
         var mAsyncOperation = SceneManager.LoadSceneAsync("MainTitle", LoadSceneMode.Additive);
         yield return mAsyncOperation;
 
-        mAsyncOperation = SceneManager.UnloadSceneAsync("Char_Choice");
+        mAsyncOperation = SceneManager.UnloadSceneAsync("Stage1");
         yield return mAsyncOperation;
     }
 }

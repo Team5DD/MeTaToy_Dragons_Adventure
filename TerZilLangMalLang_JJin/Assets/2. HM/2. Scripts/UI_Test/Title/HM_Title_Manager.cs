@@ -13,6 +13,7 @@ public class HM_Title_Manager : MonoBehaviour
     public GameObject allcharacters;
     public GameObject backGround;
     public GameObject typing_UI;
+    public GameObject loading_UI;
 
     public GameObject[] characaters;
 
@@ -133,7 +134,7 @@ public class HM_Title_Manager : MonoBehaviour
             backGround.SetActive(false);
             char_Choice_UI.SetActive(false);
             typing_UI.SetActive(true);
-            AutoSave.instance.gameData.isTitleSkip = true;
+           
 
             fadeCount = 1;
             while (fadeCount > 0.0f)
@@ -142,12 +143,26 @@ public class HM_Title_Manager : MonoBehaviour
                 yield return new WaitForSeconds(0.01f);
                 image.color = new Color(0, 0, 0, fadeCount);
             }
+            AutoSave.instance.gameData.isTitleSkip = true;
         }
         else
         {
-            SceneManager.LoadScene(1);
+            //SceneManager.LoadScene(1);
+            if (loading_UI)
+                loading_UI.SetActive(true);
+
+            StartCoroutine(SceneLoading());
         }
 
         
+    }
+
+    IEnumerator SceneLoading()
+    {
+        var mAsyncOperation = SceneManager.LoadSceneAsync("Char_Choice", LoadSceneMode.Additive);
+        yield return mAsyncOperation;
+
+        mAsyncOperation = SceneManager.UnloadSceneAsync("MainTitle");
+        yield return mAsyncOperation;
     }
 }

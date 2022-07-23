@@ -12,6 +12,7 @@ public class CharacterOpen : MonoBehaviour
     public GameObject ClearUIImg;
     public GameObject EndingUIImg;
     public GameObject GameOverUIImg;
+    public GameObject GamePasueUI;
   
     Image StartImg;
     Image ClearImg;
@@ -117,5 +118,11 @@ public class CharacterOpen : MonoBehaviour
         ButtonRobby.SetActive(true);
         AutoSave.instance.gameData.isClear_5= true;
 
+    }
+
+    public void GamePause()
+    {
+        Time.timeScale = 0;
+        GamePasueUI.SetActive(true);
     }
 }

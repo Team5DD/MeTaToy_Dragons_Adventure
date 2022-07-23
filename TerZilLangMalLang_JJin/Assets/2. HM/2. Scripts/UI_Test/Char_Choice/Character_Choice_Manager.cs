@@ -33,6 +33,7 @@ public class Character_Choice_Manager : MonoBehaviour
     public GameObject[] character_Img; // 캐릭터 이미지 배열
     public GameObject[] character_Info;
     public GameObject dark_Ticket;
+    public GameObject loading_UI;
     public TextMeshProUGUI crown_NUM;
     public int crownCount = 0;
     public int selectCharCount = 0;           // 캐릭터 선택 번호
@@ -88,6 +89,11 @@ public class Character_Choice_Manager : MonoBehaviour
         //}
 
         //MakeTicketRanNum();
+
+        if(loading_UI)
+        {
+            loading_UI.SetActive(false);
+        }
     }
 
     private void Update()
@@ -248,16 +254,30 @@ public class Character_Choice_Manager : MonoBehaviour
             AutoSave.instance.char_Prefeb_Choice = AutoSave.instance.char_Prefeb[selectCharCount];
         }
 
+        if(loading_UI)
+        {
+            loading_UI.SetActive(true);
+        }
+
         if (AutoSave.instance.gameData.isClear_4 == true) 
-        { SceneManager.LoadScene("Stage5"); }
+        { StartCoroutine(LoadingScene("Stage5")); }
         else if (AutoSave.instance.gameData.isClear_3 == true) 
-        { SceneManager.LoadScene("Stage4"); }
+        { StartCoroutine(LoadingScene("Stage4")); }
         else if (AutoSave.instance.gameData.isClear_2 == true) 
-        { SceneManager.LoadScene("Stage3"); }
+        { StartCoroutine(LoadingScene("Stage3")); }
         else if (AutoSave.instance.gameData.isClear_1 == true) 
-        { SceneManager.LoadScene("Stage2"); }
+        { StartCoroutine(LoadingScene("Stage2")); }
         else if (AutoSave.instance.gameData.isClear_1 == false) 
-        { SceneManager.LoadScene("Stage1"); }
+        { StartCoroutine(LoadingScene("Stage1")); }
+    }
+
+    IEnumerator LoadingScene(string name)
+    {
+        var mAsyncOperation = SceneManager.LoadSceneAsync($"{name}", LoadSceneMode.Additive);
+        yield return mAsyncOperation;
+
+        mAsyncOperation = SceneManager.UnloadSceneAsync("Char_Choice");
+        yield return mAsyncOperation;
     }
 
     public void TicketClik()
