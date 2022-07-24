@@ -28,6 +28,7 @@ public class PlayerHP : MonoBehaviour
     }
     IEnumerator blink()
     {
+        damagecount++;
         sp.color = Color.gray;
         yield return new WaitForSeconds(0.1f);
         sp.color = Color.white;
@@ -36,6 +37,7 @@ public class PlayerHP : MonoBehaviour
         yield return new WaitForSeconds(0.1f);
         sp.color = Color.white;
         yield return new WaitForSeconds(0.1f);
+        playerHP[damagecount - 1].gameObject.SetActive(false);
     }
 
     private void Update()
@@ -59,8 +61,8 @@ public class PlayerHP : MonoBehaviour
                 hit_sfx.Play();
             }
             StartCoroutine("blink");
-            damagecount++;
-            playerHP[damagecount - 1].gameObject.SetActive(false);
+            
+           
 
         }
 
