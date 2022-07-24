@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4806565644520668326}
   - component: {fileID: 5711538675250834417}
   - component: {fileID: 2080444375}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: Boss2 (Layer Boss)
   m_TagString: Untagged
   m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 7122697400472715091}
   - component: {fileID: 1515791336244602631}
   - component: {fileID: 6032583534302501696}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -285,7 +285,7 @@ GameObject:
   - component: {fileID: 6317635107159226761}
   - component: {fileID: 4412978273124647207}
   - component: {fileID: 8214344801008961492}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -359,7 +359,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3080999562938697392}
   - component: {fileID: 857222670012014577}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: FirePosition
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
@@ -443,7 +443,7 @@ GameObject:
   - component: {fileID: 2716124057687033637}
   - component: {fileID: 8242834417340397038}
   - component: {fileID: 4759010665817844919}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: HPCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -541,7 +541,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6343924737084391885}
   - component: {fileID: 3178567762623793838}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: BossHpSlider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -631,7 +631,7 @@ GameObject:
   - component: {fileID: 8207120622876841431}
   - component: {fileID: 5715436396417499469}
   - component: {fileID: 3283154544717202977}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Efx
   m_TagString: Untagged
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
@@ -732,7 +732,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6759251121388391799}
   - component: {fileID: 2812731984686901999}
-  m_Layer: 7
+  m_Layer: 0
   m_Name: PlayerCol(Tag Enemy)
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -788,7 +788,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6078603070174854641}
-  m_Layer: 8
+  m_Layer: 5
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}

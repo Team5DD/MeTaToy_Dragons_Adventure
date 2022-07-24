@@ -284,7 +284,7 @@ GameObject:
   - component: {fileID: 6637353052136724751}
   - component: {fileID: 4507697761809100733}
   - component: {fileID: 6637353052136724744}
-  m_Layer: 7
+  m_Layer: 9
   m_Name: EnemyBee
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -17,6 +17,7 @@ public class PlayerHP : MonoBehaviour
 
     Image[] playerHP;
     public int damagecount = 0;
+    bool isHitCoolDown = false;
     void Start()
     {
         playerHP = GameObject.Find("PlayerHP").GetComponentsInChildren<Image>();
@@ -51,6 +52,8 @@ public class PlayerHP : MonoBehaviour
     {
         if (collision.gameObject.tag == "Enemy")
         {
+            print("PlayerHit");
+            
             if (!hit_sfx.isPlaying)
             {
                 hit_sfx.Play();
