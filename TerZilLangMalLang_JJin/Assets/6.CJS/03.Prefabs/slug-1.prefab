@@ -224,7 +224,7 @@ GameObject:
   - component: {fileID: -901247516165798271}
   m_Layer: 9
   m_Name: slug-1
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -389,8 +389,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHP: 100
   sliderEnemyHP: {fileID: 1575714972745703265}
-  BombAttack: 10
-  SBombAttack: 25
+  BombAttack: 40
+  SBombAttack: 60
 --- !u!1 &6435948292328482395
 GameObject:
   m_ObjectHideFlags: 0

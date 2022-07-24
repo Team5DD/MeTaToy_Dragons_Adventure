@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
     public GameObject[] Enemy;
     [SerializeField] float JumpCount=2;
     private bool IsJump;
-
+    public bool isMeetBoss = false;
     bool isRight = true;
    
 
@@ -50,7 +50,9 @@ public class PlayerController : MonoBehaviour
             if (JumpCount > 0.0f)
             {
                 JumpCount--;
-                rigid2d.velocity = new Vector2(rigid2d.velocity.y, jumpPower);
+                //rigid2d.velocity = new Vector2(rigid2d.velocity.y, jumpPower);
+
+                rigid2d.AddForce(new Vector2(0, jumpPower), ForceMode2D.Impulse);
             }
         }
     }
@@ -65,7 +67,8 @@ public class PlayerController : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("PrevCol"))
         {
-
+            isMeetBoss = true;
+            print("IsMeetBoss TRUE");
             Destroy(collision.gameObject);
             MapManager.instance.OnColBox();
         }

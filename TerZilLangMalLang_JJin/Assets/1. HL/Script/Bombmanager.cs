@@ -11,7 +11,8 @@ public class Bombmanager : MonoBehaviour
 
     public GameObject[] nBombFactory;
     public GameObject[] sBombFactory;
-    public Button buttonIT;
+    public Button nBomb_Btn;
+    public Button sBomb_Btn;
     float timer;
     bool ClickBntSB = false;
     bool ClickBntNB = false;
@@ -39,7 +40,7 @@ public class Bombmanager : MonoBehaviour
             timer += Time.deltaTime;
             if (timer >= 4f)
             {
-                buttonIT.interactable = true;
+                sBomb_Btn.interactable = true;
                 timer = 0;
                 ClickBntSB = false;
             }
@@ -48,9 +49,9 @@ public class Bombmanager : MonoBehaviour
         if (ClickBntNB == true)
         {
             timer += Time.deltaTime;
-            if (timer >= 1f)
+            if (timer >= 0.3f)
             {
-                buttonIT.interactable = true;
+                nBomb_Btn.interactable = true;
                 timer = 0;
                 ClickBntNB = false;
             }
@@ -132,9 +133,9 @@ public class Bombmanager : MonoBehaviour
             }
 
         }
-        
 
-        buttonIT.interactable = false;
+
+        nBomb_Btn.interactable = false;
         ClickBntNB = true;
     }
     public void OnButtonDownSpecial()
@@ -200,9 +201,9 @@ public class Bombmanager : MonoBehaviour
             }
         }
 
-        
 
-        buttonIT.interactable = false;
+
+        sBomb_Btn.interactable = false;
         ClickBntSB = true;
         //만약 눌렸다면, 비활성화한다. 4초동안
 

@@ -25,9 +25,15 @@ public class CharacterOpen : MonoBehaviour
     public GameObject ButtonOK;
     public GameObject ButtonRobby;
 
+    string sceneName;
+    Scene scene;
+
     private void Awake()
     {
         instance = this;
+
+        scene = SceneManager.GetActiveScene();
+        sceneName = scene.name;
     }
 
     // Start is called before the first frame update
@@ -100,10 +106,22 @@ public class CharacterOpen : MonoBehaviour
 
     public void GoRobby()
     {
+
         SceneManager.LoadScene(0);
     }
 
-   public void TurnOff()
+    IEnumerator SceneLoading()
+    {
+        Time.timeScale = 1;
+
+        var mAsyncOperation = SceneManager.LoadSceneAsync("Char_Choice", LoadSceneMode.Additive);
+        yield return mAsyncOperation;
+
+        mAsyncOperation = SceneManager.UnloadSceneAsync(sceneName);
+        yield return mAsyncOperation;
+    }
+
+    public void TurnOff()
     {
         print("버튼 눌림");
         StartUIImg.SetActive(false);

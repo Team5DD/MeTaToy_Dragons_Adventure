@@ -224,7 +224,7 @@ private void BossAI()
     IEnumerator BossTel()
     {
         StartCoroutine(Blink(2));
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1f);
         int num = UnityEngine.Random.Range(0, 2);
         if (num == 0)
         {
@@ -241,6 +241,8 @@ private void BossAI()
         EfxAnim.SetTrigger("StrikeEfx");
         StartCoroutine("Dash");
     }
+
+
     IEnumerator Blink(float num = 2)
     {
         for (int i = 0; i < num; i++)

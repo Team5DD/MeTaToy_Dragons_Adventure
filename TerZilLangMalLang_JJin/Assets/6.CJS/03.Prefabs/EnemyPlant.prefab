@@ -203,8 +203,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHP: 100
   sliderEnemyHP: {fileID: 5941722734455856203}
-  BombAttack: 10
-  SBombAttack: 25
+  BombAttack: 40
+  SBombAttack: 60
 --- !u!70 &1879061860841124359
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

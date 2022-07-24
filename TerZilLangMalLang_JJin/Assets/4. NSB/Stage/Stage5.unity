@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 5450681}
   - component: {fileID: 5450683}
   - component: {fileID: 5450682}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (55)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -543,7 +543,7 @@ GameObject:
   - component: {fileID: 67855322}
   - component: {fileID: 67855324}
   - component: {fileID: 67855323}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (049)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1061,7 +1061,7 @@ GameObject:
   - component: {fileID: 113937872}
   - component: {fileID: 113937874}
   - component: {fileID: 113937873}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (28)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -1279,7 +1279,7 @@ GameObject:
   - component: {fileID: 117140634}
   - component: {fileID: 117140636}
   - component: {fileID: 117140635}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (47)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2151,7 +2151,7 @@ GameObject:
   - component: {fileID: 164542937}
   - component: {fileID: 164542939}
   - component: {fileID: 164542938}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (050)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -2571,7 +2571,7 @@ PrefabInstance:
     - target: {fileID: 7466819912939839162, guid: 7362e916ed3290d4b93c9ac376095f89, type: 3}
       propertyPath: GamePasueUI
       value: 
-      objectReference: {fileID: 1821878163}
+      objectReference: {fileID: 1443722270}
     - target: {fileID: 7466819912939839169, guid: 7362e916ed3290d4b93c9ac376095f89, type: 3}
       propertyPath: m_Name
       value: PlayerCanvas
@@ -2682,6 +2682,28 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 7466819912939839174, guid: 7362e916ed3290d4b93c9ac376095f89, type: 3}
   m_PrefabInstance: {fileID: 217363372}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &217363375 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7466819912939839162, guid: 7362e916ed3290d4b93c9ac376095f89, type: 3}
+  m_PrefabInstance: {fileID: 217363372}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04851ec943a51c049828c73165ee3c58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &217363376 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7466819911369955917, guid: 7362e916ed3290d4b93c9ac376095f89, type: 3}
+  m_PrefabInstance: {fileID: 217363372}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &229468589
 GameObject:
   m_ObjectHideFlags: 0
@@ -4384,7 +4406,7 @@ GameObject:
   - component: {fileID: 438687628}
   - component: {fileID: 438687630}
   - component: {fileID: 438687629}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (046)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -4602,7 +4624,7 @@ GameObject:
   - component: {fileID: 497739339}
   - component: {fileID: 497739341}
   - component: {fileID: 497739340}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (53)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5227,7 +5249,7 @@ GameObject:
   - component: {fileID: 540486664}
   - component: {fileID: 540486666}
   - component: {fileID: 540486665}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (51)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -5445,7 +5467,7 @@ GameObject:
   - component: {fileID: 544898212}
   - component: {fileID: 544898214}
   - component: {fileID: 544898213}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (23)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -6845,6 +6867,111 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &741992020
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 217363374}
+    m_Modifications:
+    - target: {fileID: 556698263592157127, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_Name
+      value: PasueIcon
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 106
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 862.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 411
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1821308346402690644, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6051760003440170547, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 217363375}
+    - target: {fileID: 6051760003440170547, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GamePause
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 49067ac471c48204587a3bd3e6a8000c, type: 3}
 --- !u!1 &748588085
 GameObject:
   m_ObjectHideFlags: 0
@@ -7456,7 +7583,7 @@ GameObject:
   - component: {fileID: 814316726}
   - component: {fileID: 814316728}
   - component: {fileID: 814316727}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (26)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7565,7 +7692,7 @@ GameObject:
   - component: {fileID: 839042459}
   - component: {fileID: 839042461}
   - component: {fileID: 839042460}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (56)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -7767,7 +7894,7 @@ GameObject:
   - component: {fileID: 849967832}
   - component: {fileID: 849967834}
   - component: {fileID: 849967833}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (24)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8452,7 +8579,7 @@ GameObject:
   - component: {fileID: 947168477}
   - component: {fileID: 947168479}
   - component: {fileID: 947168478}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (18)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8834,7 +8961,7 @@ GameObject:
   - component: {fileID: 958451313}
   - component: {fileID: 958451315}
   - component: {fileID: 958451314}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (52)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -8943,7 +9070,7 @@ GameObject:
   - component: {fileID: 1012989236}
   - component: {fileID: 1012989238}
   - component: {fileID: 1012989237}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (27)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -9050,6 +9177,14 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3529535798021477944, guid: 71b884490f2f4ce4aa82a25f9719191a, type: 3}
       propertyPath: buttonIT
+      value: 
+      objectReference: {fileID: 217363373}
+    - target: {fileID: 3529535798021477944, guid: 71b884490f2f4ce4aa82a25f9719191a, type: 3}
+      propertyPath: nBomb_Btn
+      value: 
+      objectReference: {fileID: 217363376}
+    - target: {fileID: 3529535798021477944, guid: 71b884490f2f4ce4aa82a25f9719191a, type: 3}
+      propertyPath: sBomb_Btn
       value: 
       objectReference: {fileID: 217363373}
     - target: {fileID: 3529535798021477944, guid: 71b884490f2f4ce4aa82a25f9719191a, type: 3}
@@ -10641,7 +10776,7 @@ GameObject:
   - component: {fileID: 1164929726}
   - component: {fileID: 1164929728}
   - component: {fileID: 1164929727}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (041)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -10859,7 +10994,7 @@ GameObject:
   - component: {fileID: 1203041342}
   - component: {fileID: 1203041344}
   - component: {fileID: 1203041343}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (052)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11077,7 +11212,7 @@ GameObject:
   - component: {fileID: 1228852114}
   - component: {fileID: 1228852116}
   - component: {fileID: 1228852115}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (25)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -11579,7 +11714,7 @@ GameObject:
   - component: {fileID: 1293781609}
   - component: {fileID: 1293781611}
   - component: {fileID: 1293781610}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (38)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12043,7 +12178,7 @@ GameObject:
   - component: {fileID: 1344946679}
   - component: {fileID: 1344946681}
   - component: {fileID: 1344946680}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (051)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12261,7 +12396,7 @@ GameObject:
   - component: {fileID: 1359789495}
   - component: {fileID: 1359789497}
   - component: {fileID: 1359789496}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (48)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12370,7 +12505,7 @@ GameObject:
   - component: {fileID: 1370648046}
   - component: {fileID: 1370648048}
   - component: {fileID: 1370648047}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (19)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -12697,7 +12832,7 @@ GameObject:
   - component: {fileID: 1389751756}
   - component: {fileID: 1389751758}
   - component: {fileID: 1389751757}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (040)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -13587,6 +13722,112 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1443722269
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 217363374}
+    m_Modifications:
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1919.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1079.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.38904
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.00018311
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408327356007075496, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7886308179263280276, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: m_Name
+      value: GamePasue
+      objectReference: {fileID: 0}
+    - target: {fileID: 8731259945267403441, guid: 4761783f540e995458b0984ed214441f, type: 3}
+      propertyPath: loadingUI
+      value: 
+      objectReference: {fileID: 1821878163}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4761783f540e995458b0984ed214441f, type: 3}
+--- !u!1 &1443722270 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7886308179263280276, guid: 4761783f540e995458b0984ed214441f, type: 3}
+  m_PrefabInstance: {fileID: 1443722269}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1447962555
 GameObject:
   m_ObjectHideFlags: 0
@@ -13789,7 +14030,7 @@ GameObject:
   - component: {fileID: 1464395123}
   - component: {fileID: 1464395125}
   - component: {fileID: 1464395124}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (29)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14334,7 +14575,7 @@ GameObject:
   - component: {fileID: 1510724288}
   - component: {fileID: 1510724290}
   - component: {fileID: 1510724289}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (19)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -14914,7 +15155,7 @@ GameObject:
   - component: {fileID: 1613145086}
   - component: {fileID: 1613145088}
   - component: {fileID: 1613145087}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (35)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15350,7 +15591,7 @@ GameObject:
   - component: {fileID: 1669622439}
   - component: {fileID: 1669622441}
   - component: {fileID: 1669622440}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (54)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15677,7 +15918,7 @@ GameObject:
   - component: {fileID: 1686006394}
   - component: {fileID: 1686006396}
   - component: {fileID: 1686006395}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (048)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -15896,7 +16137,7 @@ GameObject:
   - component: {fileID: 1725543154}
   - component: {fileID: 1725543156}
   - component: {fileID: 1725543155}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (047)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16332,7 +16573,7 @@ GameObject:
   - component: {fileID: 1774501322}
   - component: {fileID: 1774501324}
   - component: {fileID: 1774501323}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (18)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -16556,7 +16797,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6899382505152581024, guid: 216939cd28134464fb800009decd8298, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 6899382505152581024, guid: 216939cd28134464fb800009decd8298, type: 3}
       propertyPath: m_AnchorMax.x
@@ -16874,7 +17115,7 @@ GameObject:
   - component: {fileID: 1867653213}
   - component: {fileID: 1867653215}
   - component: {fileID: 1867653214}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_16 (57)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17085,7 +17326,7 @@ GameObject:
   - component: {fileID: 1921788311}
   - component: {fileID: 1921788313}
   - component: {fileID: 1921788312}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset-sliced_1 (22)
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -17569,7 +17810,7 @@ GameObject:
   - component: {fileID: 2041611099}
   - component: {fileID: 2041611101}
   - component: {fileID: 2041611100}
-  m_Layer: 7
+  m_Layer: 11
   m_Name: tileset_preview_17 (039)
   m_TagString: Ground
   m_Icon: {fileID: 0}

@@ -24,7 +24,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2005564656932268990}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.1899258, y: 6.654384, z: -4.401816}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6794357410656244453}
@@ -396,7 +396,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e91112549c002634c9cd97225a7405bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHP: 20
+  maxHP: 100
   sliderBossHP: {fileID: 7716631682541466381}
 --- !u!114 &5420120939717541929
 MonoBehaviour:
@@ -417,7 +417,7 @@ MonoBehaviour:
   state: 0
   PlayerTarget: {fileID: 0}
   AttackDistance: 10
-  FindDistance: 20
+  FindDistance: 10
   ChaseDistance: 5
   nextMove: 0
   FireFactory:

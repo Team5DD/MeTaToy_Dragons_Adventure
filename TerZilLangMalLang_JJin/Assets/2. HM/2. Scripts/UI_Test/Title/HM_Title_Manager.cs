@@ -30,6 +30,7 @@ public class HM_Title_Manager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Time.timeScale = 1;
         aduioSource = GetComponent<AudioSource>();
         findobject = GameObject.Find("Player_Choice_Save(Clone)");
         if (findobject == null)

@@ -65,6 +65,7 @@ public class EnemyHP : MonoBehaviour
             if (HP > 0)
             {
                 HP -= BombAttack;
+                Destroy(collision.gameObject);
             }
             else
             {
@@ -78,6 +79,7 @@ public class EnemyHP : MonoBehaviour
             if (HP > 0)
             {
                 HP -= SBombAttack;
+                Destroy(collision.gameObject);
             }
             else
             {

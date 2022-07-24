@@ -31,9 +31,9 @@ public class Spwanplayer : MonoBehaviour
         if(AutoSave.instance.gameData.isClear_4 == true)
         {
             GameObject boss1 = Instantiate(boss[3]);
-            GameObject boss2 = Instantiate(boss[3]);
+           // GameObject boss2 = Instantiate(boss[3]);
             boss1.transform.position = bossSpawnPoint.transform.position;
-            boss2.transform.position = bossSpawnPoint2.transform.position;
+            //boss2.transform.position = bossSpawnPoint2.transform.position;
         }
         else if (AutoSave.instance.gameData.isClear_3 == true)
         {

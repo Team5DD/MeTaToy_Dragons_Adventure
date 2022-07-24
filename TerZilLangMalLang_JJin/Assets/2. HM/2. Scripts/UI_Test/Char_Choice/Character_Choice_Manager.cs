@@ -60,6 +60,7 @@ public class Character_Choice_Manager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        Time.timeScale = 1;
         ads = GetComponent<AudioSource>();
 
         character_Img[selectCharCount].SetActive(true); // 0번 캐릭터 이미지 활성화

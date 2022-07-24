@@ -9,6 +9,8 @@ public class PlayerHP : MonoBehaviour
     GameObject sfxManager;
     AudioSource hit_sfx;
     AudioSource die_sfx;
+    Rigidbody2D playerrig;
+
     public static PlayerHP instance;
     private void Awake()
     {
@@ -20,6 +22,7 @@ public class PlayerHP : MonoBehaviour
     bool isHitCoolDown = false;
     void Start()
     {
+        playerrig = GetComponent<Rigidbody2D>();
         playerHP = GameObject.Find("PlayerHP").GetComponentsInChildren<Image>();
         sp = this.gameObject.GetComponent<SpriteRenderer>();
         sfxManager = GameObject.Find("BGMManager");
@@ -28,7 +31,7 @@ public class PlayerHP : MonoBehaviour
     }
     IEnumerator blink()
     {
-        damagecount++;
+       
         sp.color = Color.gray;
         yield return new WaitForSeconds(0.1f);
         sp.color = Color.white;
@@ -36,8 +39,9 @@ public class PlayerHP : MonoBehaviour
         sp.color = Color.gray;
         yield return new WaitForSeconds(0.1f);
         sp.color = Color.white;
-        yield return new WaitForSeconds(0.1f);
-        playerHP[damagecount - 1].gameObject.SetActive(false);
+        yield return new WaitForSeconds(1f);
+
+        isHitCoolDown = false;
     }
 
     private void Update()
@@ -55,18 +59,26 @@ public class PlayerHP : MonoBehaviour
         if (collision.gameObject.tag == "Enemy")
         {
             print("PlayerHit");
-            
+            if(isHitCoolDown == false)
+            {
+                damagecount++;
+
+                playerHP[damagecount - 1].gameObject.SetActive(false);
+
+                int dirc = this.transform.position.x - collision.transform.position.x > 0 ? 1 : -1;
+
+                playerrig.AddForce(new Vector2(dirc, 1) * 5, ForceMode2D.Impulse);
+            }
+            isHitCoolDown = true;
+
             if (!hit_sfx.isPlaying)
             {
                 hit_sfx.Play();
             }
+
             StartCoroutine("blink");
-            
-           
 
+                     
         }
-
     }
-
-
 }
