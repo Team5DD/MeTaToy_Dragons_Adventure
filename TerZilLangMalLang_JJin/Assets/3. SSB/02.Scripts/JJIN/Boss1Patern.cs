@@ -13,7 +13,7 @@ public class Boss1Patern : MonoBehaviour
     Animator anim;
     public Animator EfxAnim;    //자식이 애니메이터
     public int getDamage = 10;
-    public int bossAttackfirenum =4;
+    public int bossAttackfirenum = 4;
     public int fireRainfirenum = 5;
     public State state;
     public enum State
@@ -51,7 +51,7 @@ public class Boss1Patern : MonoBehaviour
         anim = GetComponent<Animator>();
         rb = this.GetComponent<Rigidbody2D>();
         //UIManager.instance.GetCrowUI.SetActive(false);
-       // UIManager.instance.SuccessUI.SetActive(false);
+        // UIManager.instance.SuccessUI.SetActive(false);
         Distance = PlayerTarget.transform.position.x - transform.position.x;
         Capsule.SetActive(false);
         spriterenderer = this.gameObject.GetComponent<SpriteRenderer>();
@@ -74,7 +74,7 @@ public class Boss1Patern : MonoBehaviour
         FaceTarget();
         if (BossHP.instance.HP <= 0)
         {
-            
+
             state = State.Die;
         }
 
@@ -132,7 +132,7 @@ public class Boss1Patern : MonoBehaviour
         {
             transform.localScale = new Vector3(1, 1, 1);
         }
-       // anim.SetTrigger("Move");
+        // anim.SetTrigger("Move");
     }
     private void Idle()
     {
@@ -144,14 +144,14 @@ public class Boss1Patern : MonoBehaviour
         if (Mathf.Abs(Distance) <= Mathf.Abs(FindDistance))
         {
             MoveToTarget();
-            
+
             state = State.Move;
-/*
-            if (Mathf.Abs(Distance) <= Mathf.Abs(AttackDistance))
-            {
-                state = State.Pattern;
-            }
-*/
+            /*
+                        if (Mathf.Abs(Distance) <= Mathf.Abs(AttackDistance))
+                        {
+                            state = State.Pattern;
+                        }
+            */
         }
     }
     private void Move()
@@ -182,31 +182,31 @@ public class Boss1Patern : MonoBehaviour
 
     IEnumerator IEDie()
     {
-            StartCoroutine(Blink(3));
-            anim.SetTrigger("Die");
-            yield return new WaitForSeconds(1f);
-            print("Die");
-            this.gameObject.SetActive(false);
-            GameObject capsule = Instantiate(Capsule);
-            capsule.SetActive(true);
-            capsule.transform.position = this.gameObject.transform.position;
-           // StopAllCoroutines 주의 !!!
-            StopAllCoroutines();
+        StartCoroutine(Blink(3));
+        anim.SetTrigger("Die");
+        yield return new WaitForSeconds(1f);
+        print("Die");
+        this.gameObject.SetActive(false);
+        GameObject capsule = Instantiate(Capsule);
+        capsule.SetActive(true);
+        capsule.transform.position = this.gameObject.transform.position;
+        // StopAllCoroutines 주의 !!!
+        StopAllCoroutines();
 
     }
-        //UIManager.instance.SuccessUI.SetActive(true);
-        //StartCoroutine("OffSiccessUI");
+    //UIManager.instance.SuccessUI.SetActive(true);
+    //StartCoroutine("OffSiccessUI");
 
-        //UIManager.instance.SuccessUI.SetActive(false);
-        //yield return new WaitForSeconds(1f);
-        //Debug.Log("bbb");
+    //UIManager.instance.SuccessUI.SetActive(false);
+    //yield return new WaitForSeconds(1f);
+    //Debug.Log("bbb");
 
-        //UIManager.instance.GetCrowUI.SetActive(true);
-        //yield return new WaitForSeconds(1f);
-        //Debug.Log("ccc");
-        //UIManager.instance.GetCrowUI.SetActive(false);
-        //Destroy(this.gameObject);
-    
+    //UIManager.instance.GetCrowUI.SetActive(true);
+    //yield return new WaitForSeconds(1f);
+    //Debug.Log("ccc");
+    //UIManager.instance.GetCrowUI.SetActive(false);
+    //Destroy(this.gameObject);
+
     public void TakeDamage()
     {
         //색깔 바꾸기
@@ -215,28 +215,27 @@ public class Boss1Patern : MonoBehaviour
         anim.SetTrigger("Hurt");
         Debug.Log("밤 맞고 데미지 얻음");
         BossHP.instance.HP -= getDamage;
-        p = false;
         anim.SetTrigger("Idle");
         state = State.Chase;
     }
 
-//public void FireShot()
-//{
+    //public void FireShot()
+    //{
 
-//    //Destroy(Fire);
+    //    //Destroy(Fire);
 
-//    GameObject Fire = Instantiate(FireFactory);
-//    Fire.transform.position = FirePosiotion.transform.position;
-//    Fire.GetComponent<Rigidbody2D>().velocity = new Vector2(nextMove, 0);
-
-
-//    state = State.Idle;
-
-//}
+    //    GameObject Fire = Instantiate(FireFactory);
+    //    Fire.transform.position = FirePosiotion.transform.position;
+    //    Fire.GetComponent<Rigidbody2D>().velocity = new Vector2(nextMove, 0);
 
 
-private void BossAI()
-{
+    //    state = State.Idle;
+
+    //}
+
+
+    private void BossAI()
+    {
         anim.SetTrigger("Idle");
         //보스 상태가 공격 상태일때만 실행된다.
         print("BossAI");
@@ -246,23 +245,23 @@ private void BossAI()
         switch (randAction)
         {
             case 0:
-                     //공격 0 패턴 - Blink 후  Player 위로 순간이동 후 떨어지기
-                     BossTelePort();
-                     break;
+                //공격 0 패턴 - Blink 후  Player 위로 순간이동 후 떨어지기
+                BossTelePort();
+                break;
             case 1:
-                     //공격 1 패턴 - 불꽃 뿜기                  
-                     BossAttack();
-                     break;
+                //공격 1 패턴 - 불꽃 뿜기                  
+                BossAttack();
+                break;
             case 2:
-                     //공격 2 패턴 - 몸통 박치기
-                     //BossStrike();
-                     break;
+                //공격 2 패턴 - 몸통 박치기
+                //BossStrike();
+                break;
             case 3:
-                     //공격 3 패턴 - Player 머리위에서 일정 간격으로 불 내려오기
-                    // BossFireRain();
-                     break;
+                //공격 3 패턴 - Player 머리위에서 일정 간격으로 불 내려오기
+                // BossFireRain();
+                break;
         }
-}
+    }
 
     private void BossFireRain()
     {
@@ -286,7 +285,7 @@ private void BossAI()
         for (int i = 0; i < fireRainfirenum; i++)
         {
             Fire[i] = Instantiate(FireFactory);
-            Fire[i].transform.position = PlayerTarget.transform.position + new Vector3(-(fireRainfirenum % 2) + i,5f ,0);
+            Fire[i].transform.position = PlayerTarget.transform.position + new Vector3(-(fireRainfirenum % 2) + i, 5f, 0);
         }
     }
     private void BossTelePort()
@@ -298,8 +297,8 @@ private void BossAI()
     IEnumerator BossTel()
     {
         StartCoroutine(Blink(2));
-        
-        
+
+
         yield return new WaitForSeconds(0.5f);
         this.transform.position = PlayerTarget.transform.position + new Vector3(0, 3, 0);
         rb.bodyType = RigidbodyType2D.Kinematic;
@@ -328,7 +327,7 @@ private void BossAI()
         anim.SetTrigger("Attack");
         EfxAnim.SetTrigger("AttackEfx");
         StartCoroutine("Attack");
-        p = false; 
+        p = false;
         state = State.Chase;
     }
     IEnumerator Attack()
@@ -344,42 +343,60 @@ private void BossAI()
         yield return 0;
     }
 
-//몸통 박치기
-private void BossStrike()
-{
-    FaceTarget();
-    anim.SetTrigger("Strike");
-    EfxAnim.SetTrigger("StrikeEfx");
-    StartCoroutine("Dash");
-
-    p = false;
-    state = State.Chase;
-}
-
-IEnumerator Dash()
-{
-    for (int i = 0; i < 100; i++)
+    //몸통 박치기
+    private void BossStrike()
     {
-        this.transform.position = Vector3.Lerp(this.transform.position, PlayerTarget.transform.position, 0.01f);
-            yield return 0;
+        FaceTarget();
+        anim.SetTrigger("Strike");
+        EfxAnim.SetTrigger("StrikeEfx");
+        StartCoroutine("Dash");
+
+        p = false;
+        state = State.Chase;
     }
-}
-private void OnCollisionEnter2D(Collision2D collision)
-{
-    if (collision.gameObject.CompareTag("Bomb"))
+
+    IEnumerator Dash()
     {
-        if (BossHP.instance.HP > 1)
+        for (int i = 0; i < 100; i++)
         {
-                
+            this.transform.position = Vector3.Lerp(this.transform.position, PlayerTarget.transform.position, 0.01f);
+            yield return 0;
+        }
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Bomb"))
+        {
+            if (BossHP.instance.HP > 1)
+            {
+
+                Destroy(collision.gameObject);
                 print("TakeDamage");
                 state = State.TakeDamage;
                 // TakeDamage();
+            }
+            else
+            {
                 Destroy(collision.gameObject);
             }
-            
-        
+
+        }
+        if(collision.gameObject.CompareTag("SBomb"))
+        {
+            if (BossHP.instance.HP > 1)
+            {
+
+                Destroy(collision.gameObject);
+                print("TakeDamage");
+                state = State.TakeDamage;
+                // TakeDamage();
+            }
+            else
+            {
+                Destroy(collision.gameObject);
+            }
+        }    
     }
-}
     IEnumerator ColorChange()
     {
         spriterenderer.color = Color.red;

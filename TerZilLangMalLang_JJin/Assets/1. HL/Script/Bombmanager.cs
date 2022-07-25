@@ -13,7 +13,8 @@ public class Bombmanager : MonoBehaviour
     public GameObject[] sBombFactory;
     public Button nBomb_Btn;
     public Button sBomb_Btn;
-    float timer;
+    float stimer;
+    float ntimer;
     bool ClickBntSB = false;
     bool ClickBntNB = false;
 
@@ -37,22 +38,22 @@ public class Bombmanager : MonoBehaviour
 
         if (ClickBntSB == true)
         {
-            timer += Time.deltaTime;
-            if (timer >= 4f)
+            stimer += Time.deltaTime;
+            if (stimer >= 4f)
             {
                 sBomb_Btn.interactable = true;
-                timer = 0;
+                stimer = 0;
                 ClickBntSB = false;
             }
         }
 
         if (ClickBntNB == true)
         {
-            timer += Time.deltaTime;
-            if (timer >= 0.3f)
+            ntimer += Time.deltaTime;
+            if (ntimer >= 0.3f)
             {
                 nBomb_Btn.interactable = true;
-                timer = 0;
+                ntimer = 0;
                 ClickBntNB = false;
             }
         }

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8373241141706843000}
   m_Layer: 9
   m_Name: Boss4
-  m_TagString: Untagged
+  m_TagString: Boss5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 7302890534866924835}
   - component: {fileID: 9082705564008268272}
   - component: {fileID: 413813122510062853}
-  - component: {fileID: 597016128339874386}
+  - component: {fileID: 107128039938287038}
   - component: {fileID: 5420120939717541929}
   m_Layer: 9
   m_Name: Boss (Layer Boss)
@@ -257,7 +257,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5420120939717541931}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.6500745, y: -2.4012842, z: 4.401816}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children:
   - {fileID: 3958661402171862132}
@@ -384,7 +384,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.8881173, y: 1.366282}
   m_EdgeRadius: 0
---- !u!114 &597016128339874386
+--- !u!114 &107128039938287038
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -393,10 +393,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5420120939717541931}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e91112549c002634c9cd97225a7405bf, type: 3}
+  m_Script: {fileID: 11500000, guid: 228ac12a33f4b0745b4286d3b13fee83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHP: 100
+  maxHP: 150
   sliderBossHP: {fileID: 7716631682541466381}
 --- !u!114 &5420120939717541929
 MonoBehaviour:
@@ -416,8 +416,8 @@ MonoBehaviour:
   fireRainfirenum: 5
   state: 0
   PlayerTarget: {fileID: 0}
-  AttackDistance: 10
-  FindDistance: 10
+  AttackDistance: 7
+  FindDistance: 7
   ChaseDistance: 5
   nextMove: 0
   FireFactory:
@@ -525,7 +525,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6146564627699309959}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.82, y: 0, z: 0}
+  m_LocalPosition: {x: -3.72, y: 2.37, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6146564629694262183}
@@ -555,7 +555,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6146564628922935794}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.8199997, y: -4.6, z: 0}
+  m_LocalPosition: {x: -3.8600006, y: -4.56, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6146564629694262183}
@@ -585,7 +585,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6146564629014278033}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 26.5, y: 0, z: 0}
+  m_LocalPosition: {x: 26.64, y: 2.33, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6146564629694262183}
@@ -645,7 +645,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6146564629694262176}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.960073, y: 1.5656161, z: 4.401816}
+  m_LocalPosition: {x: -1.97, y: 3.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 6146564627699309958}

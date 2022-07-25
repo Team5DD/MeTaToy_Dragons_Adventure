@@ -69,6 +69,7 @@ GameObject:
   - component: {fileID: 5985408465410434271}
   - component: {fileID: 5985408465410434240}
   - component: {fileID: 5985408465410434241}
+  - component: {fileID: 5259079894108797241}
   m_Layer: 6
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -84,7 +85,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5985408465410434243}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -12}
+  m_LocalPosition: {x: 0, y: 3, z: -12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5985408465826682828}
@@ -115,7 +116,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 500
-  field of view: 45
+  field of view: 50
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -155,6 +156,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shakeTimer: 0
   shakeAmount: 0
+--- !u!114 &5259079894108797241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5985408465410434243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b6ded6ad8f52e499091392c4c49641, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5985408465533300674
 GameObject:
   m_ObjectHideFlags: 0
@@ -351,6 +364,8 @@ MonoBehaviour:
   jumpPower: 8
   Enemy: []
   JumpCount: 2
+  isMeetBoss: 0
+  camera: {fileID: 5985408465410434271}
 --- !u!1 &5985408467380353069
 GameObject:
   m_ObjectHideFlags: 0

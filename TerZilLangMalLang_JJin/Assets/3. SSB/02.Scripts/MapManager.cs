@@ -15,25 +15,29 @@ public class MapManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
     public void OnColBox()
     {
-        StartCoroutine("_OnColBox");
+
+        if (AutoSave.instance.gameData.isClear_4 == false)
+        {
+            StartCoroutine("_OnColBox");
+        }
     }
-    
+
 
     IEnumerator _OnColBox()
     {
         yield return new WaitForSeconds(0.1f);
         //CameraShake.instance.ShakeCamera(0.5f, 1f);
-        for (int k= 0; k < ColBoxAnim.Length; k++)
+        for (int k = 0; k < ColBoxAnim.Length; k++)
         {
             ColBoxAnim[k].SetTrigger("ColBox");
         }
@@ -45,10 +49,12 @@ public class MapManager : MonoBehaviour
         }
     }
 
-public void OffColBox()
-{
-        StartCoroutine("_OffColBox");
-
+    public void OffColBox()
+    {
+        if (AutoSave.instance.gameData.isClear_4 == false)
+        {
+            StartCoroutine("_OffColBox");
+        }
 
     }
 

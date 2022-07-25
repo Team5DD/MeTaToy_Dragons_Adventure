@@ -13,6 +13,7 @@ public class CharacterOpen : MonoBehaviour
     public GameObject EndingUIImg;
     public GameObject GameOverUIImg;
     public GameObject GamePasueUI;
+    public GameObject LoadingUI;
   
     Image StartImg;
     Image ClearImg;
@@ -106,7 +107,7 @@ public class CharacterOpen : MonoBehaviour
 
     public void GoRobby()
     {
-
+       
         SceneManager.LoadScene(0);
     }
 

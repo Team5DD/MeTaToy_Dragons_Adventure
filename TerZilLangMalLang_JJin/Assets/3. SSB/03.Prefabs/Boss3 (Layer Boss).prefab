@@ -195,7 +195,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e91112549c002634c9cd97225a7405bf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHP: 100
+  maxHP: 200
   sliderBossHP: {fileID: 3178567762623793838}
 --- !u!1 &1583505474756618844
 GameObject:

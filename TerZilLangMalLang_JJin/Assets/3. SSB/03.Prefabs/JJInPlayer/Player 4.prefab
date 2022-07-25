@@ -69,6 +69,7 @@ GameObject:
   - component: {fileID: 7004590645635518341}
   - component: {fileID: 7004590645635518340}
   - component: {fileID: 7004590645635518343}
+  - component: {fileID: 7783079056639513031}
   m_Layer: 6
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -84,7 +85,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7004590645635518345}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.91, z: -15.51}
+  m_LocalPosition: {x: 0, y: 3, z: -12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7004590646756315705}
@@ -155,6 +156,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   shakeTimer: 0
   shakeAmount: 0
+--- !u!114 &7783079056639513031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7004590645635518345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50b6ded6ad8f52e499091392c4c49641, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7004590646451902219
 GameObject:
   m_ObjectHideFlags: 0
@@ -244,7 +257,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7004590646756315710}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -12}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7004590646693992546}
@@ -381,3 +394,5 @@ MonoBehaviour:
   jumpPower: 8
   Enemy: []
   JumpCount: 2
+  isMeetBoss: 0
+  camera: {fileID: 7004590645635518341}

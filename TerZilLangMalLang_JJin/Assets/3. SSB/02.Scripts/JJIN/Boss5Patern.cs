@@ -187,7 +187,6 @@ public class Boss5Patern : MonoBehaviour
         anim.SetTrigger("Hurt");
         Debug.Log("밤 맞고 데미지 얻음");
         BossHP.instance.HP -= getDamage;
-        p = false;
         state = State.Chase;
         anim.SetTrigger("Idle");
     }

@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -16,11 +18,12 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rigid2d;
 
     public GameObject[] Enemy;
-    [SerializeField] float JumpCount=2;
+    [SerializeField] float JumpCount = 2;
     private bool IsJump;
     public bool isMeetBoss = false;
     bool isRight = true;
-   
+
+    public Camera camera;
 
 
     public void Start()
@@ -44,7 +47,7 @@ public class PlayerController : MonoBehaviour
 
     public void OnButtonDown()
     {
-        IsJump =true;
+        IsJump = true;
         if (IsJump == true)
         {
             if (JumpCount > 0.0f)
@@ -57,6 +60,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+
     //Ãß°¡
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -67,16 +71,19 @@ public class PlayerController : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("PrevCol"))
         {
-            isMeetBoss = true;
+
             print("IsMeetBoss TRUE");
             Destroy(collision.gameObject);
             MapManager.instance.OnColBox();
         }
         if (collision.gameObject.CompareTag("AfterCol"))
         {
+            isMeetBoss = true;
 
             Destroy(collision.gameObject);
             MapManager.instance.OffColBox();
+            StartCoroutine(CameraFov());
+
 
         }
         if (collision.gameObject.CompareTag("Ground"))
@@ -85,6 +92,14 @@ public class PlayerController : MonoBehaviour
         }
 
     }
-   
+
+    IEnumerator CameraFov()
+    {
+        for (int i = 0; i < 40; i++)
+        {
+            camera.fieldOfView++;
+            yield return new WaitForSeconds(0.01f);
+        }
+    }
 }
 
