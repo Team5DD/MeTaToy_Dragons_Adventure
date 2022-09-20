@@ -15,6 +15,10 @@ Also if you have your own MTDZ then, your chracter can be a next "real player" i
 
 Get the pieces of the crown and get a ticket for a chance to be an owner the next new NFT Metatoydragonz.
 
+  
+ ## ⚙ Our Stacks
+  ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white)              ![C#](https://img.shields.io/badge/C%20Sharp-239120?style=for-the-badge&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity%202D-222324?style=for-the-badge&logo=Unity&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) 
+  
 ## ✏️About Our Teammate!
 >[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTeam5DD&count_bg=%23838A7E&title_bg=%2363A5E7&icon=unity.svg&icon_color=%23000000&title=Team5DD&edge_flat=true)](https://hits.seeyoufarm.com)  
 5 Devolper & 1 Designer
